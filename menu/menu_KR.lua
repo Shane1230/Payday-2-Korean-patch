@@ -263,7 +263,7 @@
 ["ID8c3d20d8bd7fb7cc"] = "보트 탈출", --Boat Escape
 ["ID91e9888fc4f729cf"] = "보트 탈출", --Boat Escape
 ["ID20398adfdb3fe032"] = "쿡 오프 하이스트에서 최소 6개의 뮤테이터를 활성화하고 완료하십시오. 이 작업을 완료하려면 해당 게임의 처음부터 끝까지 참여해야합니다.", --Complete the Cook Off job with at least 6 mutators active. To complete this challenge, you have to have played the heist from start to end.
-["ID96c87b51a288b0b1"] = "싹수 노란 녀석", --Prospect
+["ID96c87b51a288b0b1"] = "바이커$NL;$NL;싹수 노란 녀석", --Prospect
 ["ID98322036cec072b4"] = "다음 스텔스 변경사항 적용: +$next;$BTN_SPREE_TICKET;.", --Next Stealth modifier: +$next;$BTN_SPREE_TICKET;.
 ["IDd60cc27337057575"] = "개인 금고에서 전쟁 서류들을 찾으십시오.", --Find the war documents in safety deposit boxes.
 ["ID9b4d2e2cad4f2956"] = "아파트안 사무실", --Apartment Office
@@ -1198,7 +1198,7 @@
 ["IDa7e13131943e3a4b"] = "클릭하여 방 업그레이드", --Upgrade room by clicking on it
 ["ID6dab01a084a9e981"] = "내부자가 몰래 진입할 수 있도록 창문을 열어둡니다.", --An associate unlocks a window for you to sneak through.
 ["IDe6d26722981f72cd"] = "시간제한", --Timed
-["IDd8701dc5ecd2f576"] = "아드레날린", --Adrenaline
+["IDd8701dc5ecd2f576"] = "그라인더$NL;$NL;아드레날린", --Adrenaline
 ["ID4f78afe5b5463eeb"] = "포 스토어 작업에서, 금고안에서 금괴를 찾으십시오.", --In the Four Stores job, find a gold bar in a safe.
 ["IDbbcf151f7b284377"] = "AI 팀원 사용", --TEAM AI
 ["ID23a98ca20f604272"] = "빅 오일 2일차 작업에서, 올바른 엔진을 최초로 회수하고 하이스트를 성공하십시오.", --On day 2 of the Big Oil job, complete the heist with the first engine being correct.
@@ -1256,7 +1256,7 @@
 ["ID5c859d4e22760e42"] = "크라임 스프리 중지", --Abandon Crime Spree
 ["IDc65e9c2ab6389111"] = "Bad Attitude", --Bad Attitude
 ["IDa4723a7ad822f0ef"] = "진동 기능", --VIBRATION FEATURE
-["IDf9c630a43b40ed75"] = "Clean Hit", --Clean Hit
+["IDf9c630a43b40ed75"] = "유효 타격", --Clean Hit
 ["IDe81745a0413c5d99"] = "친구 초대", --INVITE FRIENDS
 ["IDd4a3d2c0c7e83523"] = "로비", --In Lobby
 ["ID54397009ba49096e"] = "로비", --In Lobby
@@ -1423,7 +1423,7 @@
 ["ID77f1dc84abf13d9b"] = "작업 4 목표", --Job 4 objective
 ["ID15b3a4a37315adaa"] = "This is Goodbye", --This is Goodbye
 ["IDcbde2edd87fff9c8"] = "냉철하고, 극도로 계산적이고, 누군가의 생사를 모르게 강제로 사라지게 만드는 전문가입니다.$NL;$NL;보너스:$NL;테크니션과 퓨지티브의 스킬트리에서 티어를 언락하는데 필요한 포인트를 ##$multibasic;##만큼 감소시킵니다.$NL;경험치 획득량이 ##$xpboost;##만큼 상승합니다.$NL;$NL;참고: 스킬트리에 적용되는 보너스들은 중첩되지 않습니다.$NL;$NL;아이템:$NL;$NL;", --Cold, calculating and a master of forced disappearances, dead or alive.$NL;$NL;BONUSES:$NL;Technician and Fugitive skill point requirements for each tier are reduced by ##$multibasic;##.$NL;Experience gained is increased by ##$xpboost;##.$NL;$NL;Note: Bonuses to skill trees do not stack.$NL;$NL;ITEMS:$NL;$NL;
-["ID128b50ff700e24f9"] = "Tension", --Tension
+["ID128b50ff700e24f9"] = "소시오패스$NL;$NL;긴장 상태", --Tension
 ["IDeea06a85ca0aea7d"] = "잠금해제하려면 Steam에서 Scarface Heist나 PAYDAY 2 Soundtrack를 소유해야 합니다", --Unlocks if you own the Scarface Heist or PAYDAY 2 Soundtrack
 ["ID7b0392ee86f860b3"] = "몰크래셔", --Mallcrasher
 ["ID296e041b8bca8020"] = "Full Force Forward", --Full Force Forward
@@ -1613,7 +1613,7 @@
 ["IDd954da3f6054bc6c"] = "상그레스는 위험한 남자입니다. 그는 멕시코의 몬테레이에 있는 마약 가르텔의 집행자이자 암살자로 살아왔습니다. 그러던 어느날 그는 큰 돈을 벌기위해 모든걸 버리고 미국 국경을 넘었습니다. 이후 게이지가 그를 페이데이 갱에 소개시켜줬습니다. 그는 그의 믿음직한 리볼버들을 이용하여 가차없이 일들을 처리해왔고, 제대로 한탕 벌일것입니다. 거기다... 저렇게 날카로운 마체테와 함께라면 문제도 아니죠.", --Sangres is a dangerous man. He spent many years working as an enforcer and assassin for a drug cartel in Monterrey, Mexico. Then one day he decided to defect and crossed the border to the US, looking to make the big bucks. Gage introduced him to the Payday Gang. He's as skilled as he's ruthless and with those revolvers he can really light things up. And yeah... check out that razor-sharp machete.
 ["ID21ba78d54bf71e71"] = "화이트칼라 범죄", --white collar crime
 ["ID4d0017742066bc32"] = "더 봄 하이스트 DLC는 PAYDAY 2의 15번째 DLC 팩이자 새로운 계약자인 도살자로부터 온 2개의 하이스트를 추가합니다. 여러분이 도살자가 더 봄 작업을 항구와 숲에서 성공적으로 진행하게 도와주며 사업을 확장하십시오. 더 봄 하이스트의 공개와 함께, 저희는 Lion Games Lion과 함께 그들의 만들어 온 첫 PAYDAY DLC의 결과물을 공개하게 되어 매우 기쁩니다. 저희 오버킬과 Lion Games Lion은 여러분이 새로운 컨텐츠를 즐기고 난 경험에 대해서 듣기를 학수고대합니다! 더 봄 하이스트와 함께, 새로운 권총, 4개의 마스크, 4개의 재질과 패턴을 제공합니다. 11개의 새로운 도전과제가 여러분들의 도전정신을 위해 추가되었습니다.", --The Bomb Heists DLC is the 15th DLC pack for PAYDAY 2 and adds the first two heists from the new contact known as the Butcher. It's bombs away as you help the Butcher succeed with the heists Dockyard and Forest as a part of the Bomb job. With the Bomb Heists being released, we're excited to share what Lion Game Lion have been working on as their first DLC for PAYDAY 2. Everyone at OVERKILL and Lion Game Lion look forward to hear what the community thinks after you've played the new content! Together with the Bomb heists, you also get one new pistol, four new masks with four materials and patterns. 11 new achievements have also been added to give you that extra challenge.
-["ID13aecd8f41142caa"] = "분출", --Outburst
+["ID13aecd8f41142caa"] = "매니악$NL;$NL;분출", --Outburst
 ["ID318815d6f181c0d2"] = "올드스톤의 유산 작업 중 ''전쟁에 대비하기''을 완료하여 이 무기를 언락합니다.", --Unlock this weapon by completing the ''Prepare for War'' Aldstone's Heritage Job.
 ["ID7530746340a1f252"] = "베인이 알아서 한다!", --Bain it up!
 ["ID15b41b7968726e66"] = "적군", --Enemies
@@ -1716,7 +1716,7 @@
 ["IDa5b006a15b4edd9e"] = "05-Mar-15", --05-Mar-15
 ["IDfc5c46fd773048fd"] = "테르밋통", --Thermite Can
 ["ID32c9047da0583a11"] = "$max_progress;명의 적을 Galant Rifle로 사살하십시오.", --Kill $max_progress; enemies using the Galant Rifle.
-["ID1eba515e43ff9b6e"] = "하급 의약품", --Medical Supplies
+["ID1eba515e43ff9b6e"] = "겜블러$NL;$NL;하급 의약품", --Medical Supplies
 ["ID35fa6827e584a296"] = "변경 사항 적용중$NL;잠시만 기다려주세요", --Applying settings$NL;Please wait
 ["ID59a6a1c787dfc2e0"] = "이 아이템은 바이커 하이스트 아이템입니다!", --This is a Biker Heist DLC item!
 ["ID3a8c4a05275967c3"] = "$BTN_Y; 하이스트 참가", --$BTN_Y; Join Heist
@@ -1729,8 +1729,8 @@
 ["ID09312fd3eb0b2c24"] = "울타리 밖 보도", --Sidewalk Outside Compound
 ["ID5ab49bf8de104845"] = "알파벳 순서", --Alphabetic
 ["ID56d6d6a394b137f9"] = "가격: ##$basic;##$NL;인포서는 누구도 할 수 없는 일을 하기를 바라는 범죄단에게 고용되는 잔인한 범죄자입니다. $NL;$NL;인포서 스킬트리에 첫 포인트를 사용하시면 탄약 가방을 소지할 수 있게 됩니다. 탄약 가방은 탄약을 보충하는데 사용됩니다.", --COST: ##$basic;##$NL;The Enforcer is a violent criminal, usually employed by crime syndicates to execute jobs that no one else can.$NL;$NL;Spending the first point in the Enforcer skill tree unlocks the ability to place the ammo bag deployable. The ammo bag can be used to gain ammo.
-["ID8e32c9610735acfa"] = "OVERDOG", --OVERDOG
-["IDf02a00895ec6efe2"] = "OVERDOG", --OVERDOG
+["ID8e32c9610735acfa"] = "오버독", --OVERDOG
+["IDf02a00895ec6efe2"] = "오버독", --OVERDOG
 ["ID5423f202cb2cacda"] = "보디의 파도에 대한 열정은 그가 만드는 보드를 통해 느낄 수 있습니다. 보드를 하나하나 만들때마다 그의 정신적 수행은 한층 더 강해집니다.", --Bodhi's love for the waves shows in the creation of his boards. The mental preparation reaches one step further for each board he completes.
 ["ID7ac94b8ffb008788"] = "군수 공단 사업", --MIC
 ["IDd58791c24d93abe5"] = "히트맨", --Hitman
@@ -2090,7 +2090,7 @@
 ["ID9416551aa130515f"] = "내 크라임 스프리:", --My Crime Spree: 
 ["ID3c52d35e944f125b"] = "24-Mar-16", --24-Mar-16
 ["IDda1d80864c4b90a7"] = "설명 누락", --Description missing
-["ID2d20f3b19a482261"] = "갑작스런 파티", --Blitzkrieg Bop
+["ID2d20f3b19a482261"] = "아나키스트$NL;$NL;갑작스런 파티", --Blitzkrieg Bop
 ["IDf020bfae4c112b66"] = "모든 플레이어들은 구금되는데 걸리는 다운 횟수가 $lives;번 더 증가합니다.", --All players can go down $lives; extra time before going into custody.
 ["ID366349cfa65abd43"] = "고급 회복", --Master Recovery
 ["ID319b8c4aa1ad4029"] = "회의실 서쪽", --Meeting room west
@@ -2118,7 +2118,7 @@
 ["ID5629883170f3bcf1"] = "이 아이템은 바이커 하이스트 아이템입니다!", --This is a Biker Heist item!
 ["ID360b37a49b3b1bea"] = "이 아이템은 로크 앤 로드 아이템입니다!", --This is a Locke & Load item
 ["ID107d21d805fab7c1"] = "랫츠의 3일차 작업에서, 폭탄을 해체하지 않고 가방 7개 이상을 확보하여 탈출하십시오.", --On day 3 of the Rat job, get away with 7 bags without defusing any bombs.
-["IDd849cc6dce867af2"] = "양손잡이", --Ambidexterity
+["IDd849cc6dce867af2"] = "히트맨$NL;$NL;양손잡이", --Ambidexterity
 ["ID318e74f7a5bb4a30"] = "조력자가 약간의 추가 장비를 미리 숨겨둡니다. 이것은 헛간에 방어진을 구축하는데 도움이 됩니다.", --Our Inside Man stashed a little extra equipment for you. Use them to barricade the barn.
 ["ID979be321b88c1a20"] = "공용 거실", --Common Rooms
 ["IDdaec5d79045e54a2"] = "잠금해제하려면 Steam에서 Big Bank DLC나 PAYDAY 2 Soundtrack를 소유해야 합니다", --Unlocks if you own Big Bank DLC or PAYDAY 2 Soundtrack on Steam
@@ -2223,7 +2223,7 @@
 ["IDa0acd00a9d855ce5"] = "ALIENWARE LIGHTFX", --ALIENWARE LIGHTFX
 ["ID85231eef013568da"] = "2014/10/30 - 2014/11/04", --30 OCT 2014 - 4 NOV 2014
 ["IDd97d747de8bcc539"] = "충돌하는 모드", --Conflicting mods
-["IDfc7230f340279518"] = "보호색", --Elusive
+["IDfc7230f340279518"] = "로그$NL;$NL;보호색", --Elusive
 ["ID27fd416a918ec6df"] = "베이직: ##$basic;##$NL;모든 무기의 총 탄약량이 ##$multibasic;##만큼 증가합니다.$NL;$NL;에이스: ##$pro;##$NL;탄약회수율이 기본상태의 ##$multipro;##가 됩니다.$NL;$NL;참고: 에이스버전의 스킬 효과는 특수 탄환에 적용되지 않습니다.", --BASIC: ##$basic;##$NL;Your total ammo capacity is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Increases your ammo pickup to ##$multipro;## of the normal rate.$NL;$NL;Note: ACE version does not work with custom shotgun ammo types.
 ["ID8d1822f0c59ba141"] = "서포트", --SUPPORT
 ["IDe9cb2f5a3aeab73e"] = "포인트 회수", --Remove points
@@ -2247,7 +2247,7 @@
 ["ID6454b0b07bf6ecb2"] = "네, 해보겠습니다!", --Yes, lets do it!
 ["IDe2c5ad86dc0f4ce2"] = "호스트", --HOST
 ["ID5dfbf6049e1f906d"] = "베이직: ##$basic;##$NL;당신은 근접무기를 충전 중 근접공격을 한 적에게 자동으로 반격하여 그 적을 넘어뜨릴 수 있습니다. 이 반격은 대미지를 주지 않습니다.$NL;$NL;에이스: ##$pro;##$NL;이제 클로커의 근접공격과 날라차기에 반격할수 있습니다.", --BASIC: ##$basic;##$NL;When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knockdown does not deal any damage.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to counter attack cloakers and their kicks.
-["ID8dcdb341d6b3d170"] = "태어나는 힘", --The Emerging Force
+["ID8dcdb341d6b3d170"] = "엑스-프레지던트$NL;$NL;태어나는 힘", --The Emerging Force
 ["IDe12d42bf5ccf5a53"] = "추가 지붕 진입로", --Additional Roof Access
 ["ID0d6ad9fc8af6582c"] = "어썰트 지연", --Assault Delay
 ["ID43f102faac3c93c9"] = "동쪽 복도 수납장", --East Corridor Cupboard
@@ -2266,7 +2266,7 @@
 ["IDd04401a7af384f6f"] = "$heist; $day; [$difficulty;]", --$heist; $day; [$difficulty;]
 ["ID03413ea22ec34f86"] = "마약을 만드는것은 상당히 힘든일이긴 하지만, 해내기만 하면 매우 유용하게 쓰이죠. 물론 죽으면 아무 소용이 없을것입니다. 하지만 도살자는 어떤 수단을 써서든지 메스암페타민을 모으려 하고 있습니다. 그러니 약품 잘못 흘리지말고 살아남으십시오!", --Getting ahold of drugs might be a pain, but it's worth it once it's done. If you manage to not get killed in the process. The Butcher is keen, however, to get all meth available. So don't spill it and stay alive!
 ["ID535afd3d21444ff7"] = "레벨 제한 페널티", --Level limit
-["ID29a3d8da101efd7a"] = "제 1형 방탄복", --Type I Armor
+["ID29a3d8da101efd7a"] = "아머러$NL;$NL;제 1형 방탄복", --Type I Armor
 ["ID289b11cc3bf5dffd"] = "탈의실", --Locker Room
 ["IDecf53b16fa6e7452"] = "북서쪽 복도", --Northwest Corridor
 ["ID9f20c102c7feac42"] = "PAYDAY 선택 중", --In PAYDAY
@@ -2312,7 +2312,7 @@
 ["IDf1c8bd982b3a16fd"] = "권총", --Pistol
 ["ID6dbe6fa62649e89e"] = "조준경 사용", --Aim Down Sight
 ["IDe38931fe77227926"] = "다음 강제 변경사항 적용: +$next;$BTN_SPREE_TICKET;.", --Next Forced Modifier: +$next;$BTN_SPREE_TICKET;.
-["ID9ddd21d5ea95f00f"] = "이 방은 최고 레벨에 도달해 더 이상 업그레이트 할 수 없습니다.", --This room is at its maximum level and can not be upgraded further.
+["ID9ddd21d5ea95f00f"] = "이 방은 최고 레벨에 도달해 더 이상 업그레이드 할 수 없습니다.", --This room is at its maximum level and can not be upgraded further.
 ["ID009aae3c091d7fdd"] = "핫라인 마이애미 2", --Hotline Miami 2
 ["ID40eeff76bc405e20"] = "$name;님이 너무 많은 가방을 한번에 운반하는 핵을 사용했습니다.", --$name; cheated by picking up too many bags.
 ["ID1bbf48b16e2d0cf8"] = "여기서 좀 빼내줘!", --Get me out of here!
@@ -2580,7 +2580,7 @@
 ["IDf724f1b29133fd6d"] = "스프링 브레이크", --The Springbreak
 ["ID2a28c19a0391dea5"] = "적군 공격력 배율", --Enemy Damage Multiplier
 ["ID14854bcca6ab670c"] = "강력한 충격$NL;Heavy impact", --Heavy impact
-["IDbba6886102894c4b"] = "나쁜놈 나가신다", --Bad Guy Coming Through
+["IDbba6886102894c4b"] = "킹핀$NL;$NL;나쁜놈 나가신다", --Bad Guy Coming Through
 ["ID77b6673176c3849f"] = "드라간은 체인스가 한 눈 판사이 거울을 보았습니다. 그는 그 자신과 팀원들이 무슨일이 있더라도 건강한 체형을 유지하게 할것입니다. 이를 위해 그는 체력 단련장을 만들었습니다.", --Dragan took a look in the mirror when Chains wasn't looking. He will keep himself and the rest of the gang in shape from now on, no matter what, and is building a gym to do it.
 ["ID80c68da3f48044d9"] = "가끔은 얼마나 반대가 심하고, 얼마나 큰 대가를 치르더라도, 가족을 위한 결정을 해야 합니다. 그게 이 세상에서는 올바른 일입니다.", --There are times you gotta go back for family, no matter the cost, no matter the opposition. It's the only way to right the scales of crime.
 ["ID41568d87a05b26ad"] = "상품을 제작하는 도중에는 방해를 받으면 안됩니다. 랫츠의 1일차 작업에서 마약가방 3개를 만드는 동안, 집안으로 한명의 경찰도 들어오지 못하도록 하십시오.", --We can't risk any interference while we cook up a little product. Produce three bags worth of meth on Rats (Day 1) without letting a single fucking cop in the house.
@@ -2734,7 +2734,7 @@
 ["ID246d4bcaa53ef15c"] = "AI 팀원 관리", --Crew management
 ["ID0b41c02d529fc257"] = "분위기 깨는 음악", --Bad Music
 ["ID1552f5abe0b5390e"] = "해금 방법", --How to Unlock
-["ID1d40c2c8c8bf3cdb"] = "충격과 공포", --Disturbing the Peace
+["ID1d40c2c8c8bf3cdb"] = "머슬$NL;$NL;충격과 공포", --Disturbing the Peace
 ["ID62a17ed7823655f0"] = "통계", --STATS
 ["ID10bff9ab98323586"] = "$name;님이 게임을 재시작하는데 반대하였습니다.", --$name; voted against restarting.
 --["ID58191b76579a4224"] = "데스 센텐스", --Death Sentence
@@ -2764,7 +2764,7 @@
 ["ID1d8e6658c732dd61"] = "두꺼운 껍질", --Thick Skin
 ["IDd083bbad534f4201"] = "이전 티어를 언락하셔야 구매하실 수 있습니다.", --You need to unlock previous tier before you can buy this.
 ["ID7cdc60787eb0ca4d"] = "탄창 확장", --Mag Plus
-["IDe759433eb098d508"] = "Showdown", --Showdown
+["IDe759433eb098d508"] = "마지막 결전", --Showdown
 ["ID79fb017daa3fc014"] = "Showdown", --Showdown
 ["IDb8057961e29c2db5"] = "매우 높음", --Very High
 ["ID7e6b1245f9cb5e17"] = "매우 높음", --Very High
@@ -2896,7 +2896,7 @@
 ["ID461c84a4a3a49a53"] = "황량한 서부", --Wild West
 ["ID01c75f02375e9a32"] = "비활성됨", --Disabled
 ["ID73b50056353b3d07"] = "짐승같은 힘", --Brute Strength
-["IDc66124d288d664a0"] = "짐승같은 힘", --Brute Strength
+["IDc66124d288d664a0"] = "크루치프$NL;$NL;짐승같은 힘", --Brute Strength
 ["ID1a4482471167b0f7"] = "$60,000 획득!", --You won $60,000!
 ["ID667992123ea5ebdc"] = "힙스터 빈티지", --Hipster Vintage
 ["ID08e7bfe5e85fa496"] = "수문 통제실 - 우측", --Dock Gate Control Room - Right
@@ -2923,7 +2923,7 @@
 ["ID7a29d79f59f0ea28"] = "총합", --Total
 ["IDbb49767a5c5e3a62"] = "총합", --Total
 ["IDe2a18743f5a205b8"] = "게임 모드", --Game Mode
-["ID24c24e1d0e80b3ff"] = "Overdose", --Overdose
+["ID24c24e1d0e80b3ff"] = "과다 약물", --Overdose
 ["ID856bb8d106b26b25"] = "마당 남동쪽", --South East Courtyard
 ["ID915073dc4fbd7a07"] = "베이직: ##$basic;##$NL;섬광탄을 맞았을때, 효과의 지속시간을 ##$multibasic;##만큼 감소시킵니다.$NL;$NL;에이스: ##$pro;##$NL;지속시간을 ##$multipro;##만큼 추가로 감소시킵니다.", --BASIC: ##$basic;##$NL;Reduces the visual effect duration of flashbangs by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Further reduces the visual effect duration by ##$multipro;##.
 ["IDb1f0b8c6307f1cec"] = "헬리콥터 탈출", --Helicopter Escape
@@ -3343,7 +3343,7 @@
 ["ID527ea3daf1352bc5"] = "불도저가 스폰될때, 일정확률로 그 유닛이 메딕 불도저로 교체됩니다. 메딕 불도저는 메딕과 불도저 두가지로 동시취급됩니다.", --Whenever a Bulldozer spawns, there is a chance that it will be a Medic Bulldozer. A Medic Bulldozer counts as both a Medic and a Bulldozer.
 ["ID09c70bb5ce1e8ecb"] = "Steam 릴레이 서버를 통한 연결을 사용합니다. 속도가 느린 연결들을 이용하지 않으려면, 사용하지 마십시오. 최후의 수단으로만 사용하십시오.", --Accept connections through a Steam relay server. Disable to discard slow connections. Enable only as a last resort.
 ["IDeb9a762bafa367ff"] = "당신의 팀 AI가 매 $value1;분마다 한번씩 인스파이어를 사용할 수 있습니다. 다른 AI가 한명씩 있을때 마다 쿨타임이 $value2;분씩 감소합니다.", --Your team AI can now use Inspire once every $value1; minutes. Reduced by $value2; minutes for every other AI present.
-["IDf0fd9af6cf3161eb"] = "초급 평정심", --Basic Composure
+["IDf0fd9af6cf3161eb"] = "크룩$NL;$NL;초급 평정심", --Basic Composure
 ["IDb66c61ffb7ab3fb1"] = "해외계좌로 $2,000,000를 송금하십시오.", --Earn 2 000 000 in offshore money.
 ["ID017e249ff334a75c"] = "안전가옥", --In the Safe House
 ["ID65c09b0e3a43c178"] = "전투 엔지니어링$NL;Combat Engineering", --Combat Engineering
@@ -3381,7 +3381,7 @@
 ["ID5b0c5534bf7bf054"] = "커스텀 메뉴 재생목록에서 무작위 트랙", --Random from custom menu playlist
 ["IDaa39e1e5abc1fdfb"] = "새 아이템 잠금해제!", --New items unlocked!
 ["ID393b2d9fc088a37f"] = "사격 연습: 근접무기", --Target Practice: Melee weapon
-["IDa5bd8f833d0e8842"] = "고급 근접전투", --Expert Close Combat
+["IDa5bd8f833d0e8842"] = "인필트레이터$NL;$NL;고급 근접전투", --Expert Close Combat
 ["ID05837709e049f62a"] = "베이직: ##$basic;##$NL;사다리를 오르내리는 속도를 ##$multibasic;##만큼 상승시킵니다.$NL;$NL;에이스: ##$pro;##$NL;짚라인을 타는 동안 회피율이 ##$multipro;##만큼 상승합니다.", --BASIC: ##$basic;##$NL;Increases your climbing speed by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro;## dodge chance while zip-lining.
 ["ID37d86329ba8c90a1"] = "체력 부스트", --Health Boost
 ["IDe0a1880f8285ecb6"] = "프레이밍 프레임의 3일차 작업에서, 플랜 B를 진행하는 도중, 어떠한 경찰도 전원을 내리게 만들지 마십시오.", --On day 3 of the Framing Frame job, while doing plan B, don't let law enforcers pull the power.
@@ -3417,7 +3417,7 @@
 ["IDb93ea6fdd87fc59b"] = "좌측 상부 숲", --Upper Left Forest
 ["ID5dc006683bffc1c1"] = "계약 진행자 음성 음소거", --Mute Contractor Voices
 ["IDb7bc416bf805b4bb"] = "미션 시작", --START LEVEL
-["ID34b7e7161439ab43"] = "미덕", --Virtue
+["ID34b7e7161439ab43"] = "스토익$NL;$NL;미덕", --Virtue
 ["ID5489115676cf494f"] = "보일링 포인트 작업을 오버킬 난이도에서, 20분 이내로 시체 4구를 모두 스캔하고 완료하십시오. 이 작업을 완료하려면, 해당 게임의 처음부터 끝까지 참여해야합니다.", --Finish Boiling Point on OVERKILL in less than 20 minutes after scanning all 4 bodies. To complete this daily, you have to have played the job from start to finish.
 ["ID7c8ef2dca875a8a5"] = "이 아이템은 스페셜 아이템입니다!", --This is a Special item!
 ["IDc00008206ef3c6e2"] = "일일 보너스", --Day bonus
@@ -3647,7 +3647,7 @@
 ["IDba5528c037351c88"] = "4x", --4x
 ["ID01074baa01eb4c0e"] = "$BTN_X; 중지", --$BTN_X; Stop
 ["ID8e97f737a921ff50"] = "쉐도우 레이드 하이스트에서 오버킬 이상의 난이도로, 다른 전리품을 포장하거나 확보하기전에 사무라이 갑옷 4조각을 먼저 전부 확보하십시오.", --In the Shadow Raid heist, steal all the Samurai Armour before grabbing or securing any other loot, playing on OVERKILL difficulty or above.
-["IDfe2b9f8772ad187a"] = "술기운과 용기", --Dutch Courage
+["IDfe2b9f8772ad187a"] = "버글러$NL;$NL;술기운과 용기", --Dutch Courage
 ["ID5e52a9db2595c382"] = "게이지 모드 캐리어", --Gage Mod Courier
 ["ID501d1c394d2e936d"] = "미션 실패 화면", --Heist Failed Screen
 ["ID472906e45ce3e7dc"] = "보조 시설 북쪽", --Support Facility North
@@ -4162,7 +4162,7 @@
 ["IDe28b0e9b7f97e7bd"] = "시드니가 차고에 마스크 도색 공방과 갱단의 무기 스킨을 쉽게 확인할 컴퓨터를 마련했습니다.", --Sydney's got a mask painting studio set up in the garage and set up a computer to easily browse different skin designs for the gang's weapons.
 ["IDc00f9fce7f508382"] = "더 좋은 도구와 재료를 이용해서, 시드니는 더 많은 마스크를 전시할 공간과 좋은 작업공방을 마련했습니다.", --With better tools and materials, Sydney's got a much nicer workspace and can put up more masks for display.
 ["ID646e6e9f726cf486"] = "만약 예술가의 작업장이 완벽하지 않다면, 그곳의 작품들도 완벽하지 못할것입니다. 워싱턴에서 최고의 마스크 제작 공방을 소개합니다.", --If an artist workspace doesn't feel complete, the work in it never will too. The fanciest mask creation studio in Washington right here.
-["ID64146bc7a5fa90f0"] = "피아노, 확인. 호랑이 가죽. 확인. 스카페이스의 공간에 온 것을 환영합니다. 돈 냄새가 나지 않습니까? 아니면 코카인 냄새가 나나요?", --Piano, check. Tiger skin, check. Welcome to Scarfaces place. Can you smell the money now? Or the coke?
+["ID64146bc7a5fa90f0"] = "피아노, 확인. 호랑이 가죽, 확인. 스카페이스의 공간에 온 것을 환영합니다. 돈 냄새가 나지 않습니까? 아니면 코카인 냄새가 나나요?", --Piano, check. Tiger skin, check. Welcome to Scarfaces place. Can you smell the money now? Or the coke?
 ["ID0c4ca9e3598e4c0e"] = "이전의 금고는 갱단의 넘쳐나는 욕망을 담기에는 부족했습니다.", --The old vault was too small to fit the gang's big ambitions.
 ["ID925486ede4a85ea5"] = "방장이 크라임 스프리를 실패하였기에 크라임 스프리를 계속할지 결정해야 합니다.", --The host has failed their Crime Spree and must choose to continue.
 ["IDcd32ad8363630ff6"] = "+$inc;$BTN_SPREE_TICKET;", --+$inc;$BTN_SPREE_TICKET;
@@ -4180,13 +4180,13 @@
 ["ID7eae3af170441119"] = "키보드와 마우스의 키 설정을 설정합니다.", --Choose your preferred keyboard and mouse layout.
 ["ID83bc67dfc4d5fe2d"] = "안전가옥 업그레이드", --Upgradable Safe House
 ["IDe37404b910cb851b"] = "나눔은 미덕이다", --Sharing Is Caring
-["IDbb829c0ff5080074"] = "뱀 문신", --Hebi Irezumi
+["IDbb829c0ff5080074"] = "야쿠자$NL;$NL;뱀 문신", --Hebi Irezumi
 ["IDdc0351728e40c4ec"] = "당신의 히스테리 스택이 당신과 당신의 팀원에게 주는 피해감소치가 매 ##$multiperk2;##만큼의 히스테리 스택마다 ##$multiperk;##만큼의 피해감소로 바뀝니다.", --Change the damage absorption of your Hysteria Stacks on you and your crew to ##$multiperk;## damage absorption for every ##$multiperk2;## stacks of Hysteria.
 ["IDae793a867f22bef2"] = "후방 사수", --Tail Gunner
 ["IDbdf2f7367354ec2c"] = "매 ##$multiperk;##의 체력량을 잃을 때마다 ##$multiperk2;##초의 사살 회복 쿨다운이 ##$multiperk3;##초만큼 줄어듭니다.", --Every ##$multiperk;## health missing will reduce the ##$multiperk2;## second cooldown to kill regen by ##$multiperk3;## second.
 ["ID83921f7b95e43b46"] = "최고를 향하여", --Right to the Top
 ["ID22109f722265c323"] = "당신의 체력을 ##$multiperk;##만큼 증가시킵니다.$NL;$NL;체력이 최대일 때 적용되는 매 ##$multiperk3;##만큼의 주사기 회복 효과마다 주사기 사용 쿨다운이 ##$multiperk4;##초씩 줄어듭니다.$NL;$NL;덱 완료 보너스: PAYDAY도중 높은 등급의 아이템을 얻을 확률이 ##$multiperk5;##만큼 상승합니다.", --You gain ##$multiperk;## more health.$NL;$NL;For every ##$multiperk3;## points of health gained during the injector effect while at maximum health, the recharge time of the injector is reduced by ##$multiperk4;## second.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by ##$multiperk5;##.
-["IDecbaba7904cb24b1"] = "스모커", --Smoker
+["IDecbaba7904cb24b1"] = "시카리오$NL;$NL;스모커", --Smoker
 ["ID633b671965ed29a3"] = "당신의 모든 방탄량이 체력으로 전환되어 추가됩니다.", --All of your armor is converted and applied to your health.
 ["ID8ef82bed21f0f825"] = "당신과 당신의 팀원은 인질 한명당 ##$multiperk;##만큼의 최대 체력이 증가하고 ##$multiperk2;##만큼의 스태미나가 증가합니다. 이 효과는 ##$multiperk3;##명의 인질까지 적용됩니다.$NL;$NL;당신과 당신의 팀원은 인질이 한명이라도 존재할 경우 ##$multiperk4;##만큼의 피해감소의 효과를 받습니다.$NL;$NL;참고: 팀원의 특성 덱과 중첩되지 않습니다.$NL;$NL;덱 완료 보너스: PAYDAY 도중 높은 등급의 아이템을 얻을 확률이 ##$multiperk5;##만큼 상승합니다.", --You and your crew will gain ##$multiperk;## max health and ##$multiperk2;## stamina for each hostage up to ##$multiperk3;## times.$NL;$NL;You and your crew will gain ##$multiperk4;## damage reduction for having one or more hostages.$NL;$NL;Note: Crew perks do not stack.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by ##$multiperk5;##.
 ["ID13f6f247c832e202"] = "고기 방패", --Meat Shield
@@ -5167,7 +5167,7 @@
 ["ID252d3d9964760dc8"] = "조화", --Harmony
 ["ID0b58c553b0456623"] = "국적: 미국$NL;나이: 32$NL;$NL;인터넷의 유명한 골리앗들에게 맞서는 다윗과 같은 존재인 에단은, 베인이 어떤 계획을 생각하는지는 그 누구도 알 수 없다는 산 증인입니다. 에단과 그의 아내 힐라는 어떤 사람들과 부부가 만든 다큐멘트리식 작품으로 인해 법적 소송을 받아서 변호를 위해 상당한 재산을 지불하여 경제적으로 힘들어져 버렸습니다. 그의 상당한 대인 관계와 그만의 매력은 베인의 흥미를 끌었고, 그와 아내가 보상, 재산, 그리고 명예를 약속받고 페이데이 갱에 참여하도록 설득받게 되었습니다.", --Nationality: American$NL;Age: 32$NL;$NL;A little bit of David to the internet's proverbial Goliath, Ethan is proof that you can never really know what goes on inside Bain's head. As a skilled social media broadcaster, Ethan and his spouse Hila drew the legal ire of some individuals with their documentary work and were forced to spend a minor fortune defending themselves, leaving them financially vulnerable. His skills in public relations and engagement attracted the interest of Bain, who convinced him and his wife to join Payday with promises of restitution, fortune, and glory.
 ["ID53a25a044d2eb0fb"] = "열렬한 블로거와 스트리머인 에단과 힐라는 그들의 영상을 위한 장소가 필요했고, 올드스톤의 불평을 완전히 무시하고 공용 거실에 장비를 설치했습니다.", --As avid vloggers and streamers Ethan and Hila need space for their videos and they started setting up in the common rooms with total disregard to Aldstone complaints.
-["IDeb5dee2adcd72e5c"] = "소울 메이트", --Soul Mates
+["IDeb5dee2adcd72e5c"] = "태그팀$NL;$NL;소울 메이트", --Soul Mates
 ["ID7d32a719e769051d"] = "시너지", --Synergy
 ["IDdb38a5f4ad74bce2"] = "당신은 스킬트리 중 하나의 스킬들을 전부 초기화하려 합니다.$NL;$NL;''이 스킬트리 초기화'' 를 선택하면 현재 선택한 스킬트리에 투자한 모든 스킬 포인트가 초기화되고 환불됩니다.$NL;$NL;''모든 스킬트리 초기화'' 를 선택하면 모든 스킬트리에 투자만 모든 스킬 포인트가 초기화되고 환불됩니다.", --You are about to reset one or all of your skill trees.$NL;$NL;Selecting RESET TREE will remove the skill points in the selected skill tree and return them to you.$NL;$NL;Selecting RESET ALL TREES will remove the skill points from all skill trees and return them to you.
 ["ID75bd2985d0dadb6b"] = "에단과 힐라는 새로운 세트장에 장비를 풀고 적응하기 시작했습니다. 비록 다른 하이스터들에게 방해가 되더라도, 자신들을 표출할 공간은 필요한 법입니다.", --Ethan and Hila has started to set up their gear and getting settled in on their new set. Even if they sometimes get in the way of the other heisters they need the space to express themselves.
@@ -5400,7 +5400,7 @@
 ["IDe8120b4601cd9907"] = "여름 세일이 왔습니다!", --It's Summer Sale Heisters!
 ["ID8cbf9b5b82a7bad5"] = "커뮤니티 7", --Community 7
 ["IDfd28a46d658b6868"] = "ECM 피드백의 효과가 작동 중인 도중 팀원이 적을 사살하면 ##$multiperk;##만큼 체력이 회복됩니다.$NL;$NL;회피 확률이 ##$multiperk2;##만큼 증가합니다.$NL;$NL;덱 완료 보너스: PAYDAY도중 높은 등급의 아이템을 얻을 확률이 ##$multiperk3;##만큼 상승합니다.", --Crew members killing enemies while the feedback effect is active will regenerate ##$multiperk;## health.$NL;$NL;Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by ##$multiperk2;##.
-["ID334bad11b3a38bbc"] = "코드 결함", --Code Glitch
+["ID334bad11b3a38bbc"] = "해커$NL;$NL;코드 결함", --Code Glitch
 ["ID825dc0d34b9c8325"] = "급조 인터페이스", --Kluge
 ["ID09c165ae3a80db7a"] = "국적: 일본$NL;나이: 22$NL;$NL;조이는 어린 청소년 시절부터 사이버 범죄자였습니다. 그녀는 실력있는 해커로, 컴퓨터나 전자장비에 관련해서는 최고입니다. 하지만 그녀는 총 또한 다룰줄 알며, 어린 나이에도 불구하고 물러나지 않는 배짱을 보입니다.", --Nationality: Japanese$NL;Age: 22$NL;$NL;Joy's been a cyber criminal since her younger teens. She's a skilled hacker, invaluable when it comes to tech and computers. But she also knows how to handle a gun and she's as tough as they come in spite of her young age.
 ["ID03a4cce438a67b24"] = "조이", --Joy
@@ -5511,7 +5511,7 @@ menu_visit_community_help = "세상에서 가장 좋은 포럼에서 오버킬�
 --Leech 리치퍽덱 추가
 menu_st_spec_22 = "리치", 
 menu_st_spec_22_desc = "여러분은 전투 중 먹잇감을 고르는 거머리 같은 존재입니다. 적의 생기를 빨아서 자신과 동료를 튼튼하게 하지요. 그럼에도, 여러분은 아무나 와서 두들겨 팰 수 있는 옥외변소 같은 존재 역시 아닙니다. 여러분은 적에게 상당한 고통을 선사하며 그러한 공격성으로 팀의 전력을 강화할 수 있습니다.",
-menu_deck22_1 = "추진력",
+menu_deck22_1 = "리치$NL;$NL;추진력",
 menu_deck22_1_desc = "리치 약병을 사용할 수 있게 됩니다.$NL;$NL;특성 덱을 변경하면 리치 약병이 다시 잠깁니다.$NL;리치 약병은 투척 무기 슬롯에 장착되어 투척 무기를 대체하고, 원한다면 투척 무기로 다시 변경할 수도 있습니다.$NL;게임 중 투척 무기 사용 키##$BTN_ABILITY;##를 눌러 리치 약병을 사용할 수 있습니다.$NL;$NL;리치의 약병을 활성화하면 방탄량을 소모하고 체력을 ##$multiperk;##회복합니다. 능력 발동 중에는 방탄량이 회복되지 않습니다.$NL;$NL;능력이 활성화되어 있는 동안에는 체력이 ##$multiperk2;##당 1칸씩으로 분할되며 피해를 입을 때마다 한 칸이 제거됩니다.$NL;적을 ##$multiperk3;##명 죽이면 체력을 한 칸 회복하고 1초간 피해를 받지 않습니다. 언제든 피해를 입으면 팀원의 체력의 ##$multiperk4;##를 회복합니다.$NL;$NL;리치의 약병은 ##$multiperk5;##초 동안 지속되며 ##$multiperk6;##초의 쿨다운 시간이 필요합니다.",
 menu_deck22_3 = "불굴",
 menu_deck22_3_desc = "최대 체력이 ##$multiperk;## 증가합니다.$NL;$NL;리치 약병이 활성화되어 있는 동안에는 최후의 저항 상태가 되지 않지만, 체력이 전부 닳으면 이동속도가 ##$multiperk2;## 감소합니다.",
@@ -5572,5 +5572,75 @@ menu_difficulty_sm_wish = "데스 센텐스", --DEATH SECNTENCE
 menu_one_down = "원다운", --ONE DOWN
 menu_toggle_one_down = "원다운", -- ONE DOWN
 menu_item_preplanning_rebuy = "사전계획 재구매", --REBUY ASSETS
+menu_pp_cat_entry_plan_generic = "진입 계획", --ENTRY PLAN
 
 menu_chat_preplanning_vote_on_plan = "$name; 님이 $plan;: $type;에 투표하였습니다.", --$name; voted on the $plan;: $type;
+
+-- setting option
+-- Accessibility
+menu_accessibility = "접근성",
+menu_accessibility_help = "이 메뉴는 색맹 설정을 포함한 접근성 옵션을 포함합니다.",
+menu_color_blind_hit_direction = "피해 표시 - 색맹 보조 모드",
+menu_color_blind_hit_direction_help = "피해 방향을 표시할 때 색맹 보조 모드를 키거나 끕니다.",
+menu_accessibility_dot = "모션 도트",
+menu_accessibility_dot_help = "모션 도트는 플레이 중 멀미의 영향을 줄이기 위해 도입되었습니다.",
+menu_dot_off = "꺼짐",
+menu_dot_white = "하얀색",
+menu_dot_yellow = "노란색",
+menu_dot_blue = "파란색",
+menu_dot_green = "초록색",
+menu_accessibility_dot_size = "모션 도트 크기",
+menu_accessibility_dot_size_help = "모션 도트 크기 선택",
+menu_dot_3px = "3px",
+menu_dot_5px = "5px",
+menu_dot_8px = "8px",
+menu_dot_10px = "10px",
+menu_toggle_dot_hide_ads = "정조준시 모션 도트 숨기기",
+menu_toggle_dot_hide_ads_help = "정조준시 모션 도트를 숨기거나 보이게 합니다.",
+menu_accessibility_screenflash_color_multi_option = "화면 섬광 색상",
+menu_accessibility_screenflash_color_multi_option_help = "섬광탄 등으로 인한 시각 상실 시 화면 섬광에 대한 대체 색상을 설정합니다. 기본 설정은 하얀색입니다. 효과의 중첩된 값이 일정 수치를 넘어서면, 이 색상이 대신 사용됩니다.",
+menu_screenflash_color_off = "꺼짐",
+menu_screenflash_color_default = "기본",
+menu_screenflash_color_black = "검정색",
+menu_screenflash_color_mid_grey = "회색",
+menu_screenflash_color_light_grey = "연한 회색",
+menu_screenflash_color_dark_grey = "진한 회색",
+menu_accessibility_screenflash_color_hit_flash_multi_option = "대미지 표시 색상",
+enu_accessibility_screenflash_color_hit_flash_multi_option_help = "대미지를 입거나 회피할 경우 표시되는 화면 반짝임에 대한 대체 색상을 설정합니다. 기본 설정은 노란색이며, 기본 설정은 꺼짐입니다.",
+menu_accessibility_screenflash_color_blurzone_multi_option = "블러 구역 색상",
+menu_accessibility_screenflash_color_blurzone_multi_option_help = "화면을 흐리게 하는 구역에 있을 경우 화면에 끼는 빛 효과에 대한 대체 색상을 설정합니다. 기본 설정은 노란색이며, 화면 흐림 필터는 영향을 받지 않습니다.",
+menu_accessibility_sounds_tinnitus_toggle = "이명 효과 끄기",
+menu_accessibility_sounds_tinnitus_toggle_help = "섬광 및 폭발 등으로 인한 귀울림 효과음을 켜거나 끕니다. 음량 감소 효과에는 영향을 주지 않습니다.",
+-- Advanced
+menu_advanced_options = "상세 설정",
+menu_advanced_options_help = "상세 설정을 변경합니다.",
+menu_no_sbz_account = "Starbreeze 네뷸라 계정 연결",
+menu_no_sbz_account_help = "당신의 Steam계정과 Starbreeze 네뷸라 계정을 연결합니다.",
+menu_has_sbz_account = "Starbreeze 네뷸라 계정으로 이동",
+menu_has_sbz_account_help = "Starbreeze 네뷸라 계정을 확인합니다.",
+menu_toggle_telemetry = "글로벌 스탯 측정",
+menu_toggle_telemetry_help = "글로벌 스탯 측정을 켜거나 끕니다. 더 많은 정보는 https://pd2.link/PrivacyPolicy 에서 확인하세요",
+menu_toggle_gamesight = "게임사이트",
+menu_reset_account = "계정 진행 상황 초기화",
+menu_reset_account_help = "당신의 현금, 명성과 업그레이드를 초기화합니다.",
+-- option etc
+menu_arm_animation = "팔 움직임 동기화",
+menu_arm_animation_help = "가능한 상황에서 VR 플레이어들을 위한 절차적 팔 애니메이션입니다.",
+menu_toggle_infamy_roman_rank = "악명 레벨을 로마 숫자로 표시",
+menu_toggle_infamy_roman_rank_help = "플레이어 이름 옆에 표시되는 악명 레벨을 로마 숫자로 보여줍니다.",
+menu_toggle_infamy_roman_card = "악명 카드를 로마 숫자로 표시",
+menu_toggle_infamy_roman_card_help = "악명 카드에 있는 악명 레벨을 로마 숫자로 보여줍니다.",
+menu_user_interface_option_default = "유저 인터페이스 옵션 초기화",
+menu_user_interface_option_default_help = "유저 인터페이스 옵션을 기본값으로 되돌립니다.",
+menu_jukebox_ghost_playlist = "커스텀 스텔스 플레이리스트",
+menu_jukebox_ghost_playlist_help = "당신이 좋아하는 스텔스 트랙으로 당신만의 재생목록을 생성합니다.",
+menu_jukebox_ghost_tracks = "커스텀 스텔스 트랙",
+menu_jukebox_ghost_tracks_help = "각각의 스텔스 하이스트에서 재생할 트랙을 설정합니다.",
+
+-- safehouse trophy
+trophy_bains_book = "베인의 가이드",
+trophy_bains_book_desc = "수 년전 병원을 상대로 한 하이스트에서 보답으로 베인은 카리오스트로의 안내서를 받았습니다.",
+trophy_bains_book_completion_objective = "노머시 작업을 보통 이상의 난이도로 완료 하십시오.",
+trophy_bex = "블라드의 테이프",
+trophy_bex_desc = "오, 이런. 이걸 태우지 않았다는 걸 블라드가 알면 완전 꼭지가 돌겠지. 근데 이 메시지에 뭐가 그리 특별한 게 있다는 거야? 항상 다양한 각도로 행동한다는 건 다 알고 있지만 말이야...",
+trophy_bex_objective = "산 마르틴 뱅크의 금고구역에서 추가 전리품을 조사하십시오.",

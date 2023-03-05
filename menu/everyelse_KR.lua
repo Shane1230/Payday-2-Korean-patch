@@ -5503,13 +5503,14 @@
 ["ID91037f35833b929b"] = "노머시 하이스트를 매우 어려움 이상의 난이도로 완료하십시오.", --Complete the No Mercy heist on the very hard difficulty or higher.
 ["ID3cb2d74122af8797"] = "", --The Greatest Heist of All
 
---계약자
+-- 계약자
 heist_contact_jiufeng = "지우 펑",
 heist_contact_shayu = "샤위",
 heist_contact_mcshay = "제마 맥셰이",
---heist_contact_custom = "커스텀 하이스트", --Beard Lib "Custom Heist"
+heist_contact_blaine = "블레인 키건",
+heist_contact_custom = " 커스텀 하이스트", --Beard Lib "Custom Heist"
 
---heist (HL)
+-- heist (HL)
 heist_bex = "산 마르틴 뱅크",
 heist_bex_hl = "산 마르틴 뱅크",
 heist_pex = "티후아나에서의 아침을",
@@ -5528,12 +5529,14 @@ heist_chas = "드래곤 하이스트",
 heist_chas_hl = "드래곤 하이스트",
 heist_sand = "우크라이나인 포로",
 heist_sand_hl = "우크라이나인 포로",
-heist_ranc = "내륙 목장",
+heist_ranc = "미드랜드 랜치",
 heist_ranc_hl = "내륙 목장",
-heist_trai = "배달 사고",
+heist_trai = "로스트 인 트랜싯",
 heist_trai_hl = "배달 사고",
+heist_corp = "호스타일 테이크오버",
+heist_corp_hl = "기업 사냥",
 
---holdout (H1)
+-- holdout (H1)
 heist_skm_bex = "산 마르틴 뱅크",
 heist_skm_bex_h1 = "산 마르틴 뱅크",
 heist_skm_arena = "알레소 하이스트",
@@ -5550,6 +5553,9 @@ hud_stats_pagers_used = "사용한 페이저", --pager used
 hud_stats_enemies_converted = "제어 중인 조커", --jokers controlled
 hud_stats_bags_secured_value = "확보한 가방들 값어치", --secured bags value
 
---기타
+-- 기타
 victory_total_restarts = "재시작한 횟수:", --total restarts
+menu_equipment_grenade_crate = "군장 가방",
 bm_equipment_grenade_crate = "군장 가방",
+debug_equipment_grenade_crate = "군장 가방",
+menu_join_stinger_title = "$button;참가음 선택",

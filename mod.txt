@@ -2,8 +2,9 @@
 	"name" : "Payday 2 Korean patch",
 	"description" : "Change most of ingame text into korean. also allows korean chat.",
 	"author" : "MaxShouldier, SteamUser\nCoding help: Yakumo Yukari\nTranslation Help: Anonymous Group of Korean PAYDAY 2 Players\nTranslation Check Help: SteamUser",
-	"contact" : "bomuljs0203@gmail.com - Outdated",
-	"version" : "198",
+	"contact" : "bomuljs0203@gmail.com - Outdated		   \n
+		   https://steamcommunity.com/id/Shane1230/",
+	"version" : "199",
 	"blt_version" : 2,
 	"priority" : 100,
 	"image" : "gatgaem.png",

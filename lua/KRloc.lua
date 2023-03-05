@@ -141,7 +141,7 @@ function getHash(string_id)
 	return hash
 end
 
-
+local text = LocalizationManager.text
 LocalizationManager.text = function(self, string_id, macros)
 	local return_hash = getHash(string_id)
 
@@ -167,5 +167,5 @@ LocalizationManager.text = function(self, string_id, macros)
 		end
 		return return_string
 	end
-	return self.orig.text(self, string_id, macros)
+	return text(self, string_id, macros)
 end
