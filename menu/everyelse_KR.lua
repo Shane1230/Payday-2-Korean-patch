@@ -335,8 +335,8 @@
 ["ID0c702961d05fc59e"] = "EMP 폭탄을 손에 넣기 위해서는, 머키워터의 작업을 방해해야만 해. 놈들은 열차를 통해 상당량의 물건들을 옮기고 있고, 숨겨진 열차역에 예정된 정차를 할 계획이야. 나도 총알이 빗발치는 상황이 좋긴 하지만, 지금은 약간 위험한 일이지, 안그래? 그러니 이번일은 조용하게 해야 할거야, 친구들.$NL;$NL;» 열차를 찾아라$NL;» EMP 폭탄 부품을 찾아라$NL;» 부품들을 회수하고 탈출하라", --To get our hands on the EMP bomb, we're gonna have to mess with Murkywater. They are transporting a bunch of goods via train, and will be making a scheduled stop at a hidden train yard. I would prefer to do it guns blazing, but that's too risky, yeah? So we need to this the stealthy way, lads.$NL;$NL;» Find the trains$NL;» Locate the EMP bomb parts$NL;» Get them out of there and escape
 ["IDc9d3a15755fc27e1"] = "치과의사", --The Dentist
 ["ID6a66b15dde593237"] = "코끼리의 연설에 따르면 자기는 결속과 리더쉽을 가지고 의원이 되었다고 하지만, 그건 다 개소리에 불과하지. 이 미꾸라지같은 사람은 상원위원자리를 위해서 무슨일이든 할꺼란 말이야. 이때 우리가 나서는 거지. 39번 부두에 트럭이 도착해있어. 이 중 한개는 투표기계를 운반하고 있지. 그 트럭을 찾은 뒤에, GPS 추적기를 부착해. 이일은 가능하면 조용히 처리할꺼야. 당연하겠지만, 코끼리는 이 일이 자신한테 어떠한 나쁜 영향을 주지 않기를 바라고 있어. 그래서, 그가 만약 이 일을 완벽하게 조용히 처리한다면, 자신의 상당한 양의 선거자금의 일부를 보너스로 제공하겠다고 귀뜸했어. 너희들이 일을 조용히 처리하면, 우리의 착한 의원님이 보수를 잘 쳐줄꺼야.", --The Elephant's PR will claim he came to power through depth, leadership and integrity, but that's bullshit. That oily bastard is going to cheat his way to the Senate, and this is where you come in. There are trucks at Pier 39. One of them has voting machines. Find the truck, and attach a GPS tracker to it. We'll deal with it down the line. Naturally, The Elephant wants this done with as little chance of bad press coming back to him as possible. So he's ear-marked some of his considerable campaign funds for a special black-ops bonus. You guys do this quietly, and the good politician will see you are well rewarded.
-["ID688e3becca7ec2d0"] = "스틸링 XMAS", --Stealing Xmas
-["IDe642435cedcc9699"] = "스틸링 XMAS", --Stealing Xmas
+["ID688e3becca7ec2d0"] = "스틸링 크리스마스", --Stealing Xmas
+["IDe642435cedcc9699"] = "크리스마스 훔치기", --Stealing Xmas
 ["ID7708a6dfd8f8007a"] = "이 작업은 모든게 스텔스야. 게이지는 너희들이 창고에 조용히 들어가서, 가져올수 있는만큼 가지고 나오기를 바라고 있어. 중요한 부분은, ''절대'' 경보를 울려서는 안돼. 만약 알림이 작동하면, 너희들을 당장 빼내올꺼야.$NL;$NL;이 창고는 머키워터 소유야. 그들의 명함에는 ''특별 보안 담당''이라고 적혀있지만, 사실은 그냥 용병들로 구성된 사설 군대지. 이 창고는 담보품을 주로 보관하고 있어, 그리고 게이지는 여기에 이라크나 아프가니스탄같이 배부른 사기꾼들이 활동하는 나라에서 온 온갖것이 있을꺼라고 보고있어.", --This is all about stealth. Gage wants you to silently enter this depot, grab what you can and get out. The important part? Do NOT set off the alarm. If you do, I'm pulling you out.$NL;$NL;This warehouse is Murkywater. Their business cards say 'private security' but they're really just a private army of mercenaries and looters. This warehouse is bonded, and Gage suspects it's full of stuff shipped back from Iraq, Afghanistan and wherever else those corn-fed crooks flex their muscle. 
 ["ID00eb60eb1aeb97ec"] = "좋아, 우리가 계획한대로 항구로 가면 돼. 픽업트럭에서 코카인을 내려. 헥터의 보트가 오도록 신호를 보내려면 창고에서 신호를 보내야 할꺼야. 보트가 도착하면, 코카인을 보트에 넣어, 그러면 보트 운전자가 나머지 일을 처리할꺼야.", --OK, you go to the harbor like we planned. Offload the coke from the pick-up. You'll need to signal Hector's boat in the warehouse to get him to come in. Once he's there, get the coke onboard and the boat driver will do the rest.
 ["IDd8b9d7f51d30402b"] = "보일링 포인트", --Boiling Point
@@ -5343,7 +5343,7 @@
 ["IDdbf9c8dcc68b7eee"] = "대체 깡패 손에 핵탄두를 어디다 써먹으려는거지? 신경끄자. 블라드가 다음 단계를 준비했어. 녀석이 너희들과 카르텔과 연결시켜주겠다고 하는데, 지금은 경찰들이 사라진 탄두들을 찾으려고 온 장소를 수색하고 있어. 뭐, 워싱턴에서 너희들을 실컷 찾아보라지. 블라드가 또 다른 작업을 준비했어, 그리고 이번건 좀 많이 급한 일이야. 로스앤젤레스로 가 - 빨리.", --Nuclear warheads in the hands of a mobster? Don't ask. Vlad's ready to help you step up. Says he can help you get in touch with the cartels, but the Fed's are combing the streets looking for those missing warheads. Well, let them pull DC apart looking for you. Vlad has another job, and this one is urgent. Get to LA - fast.
 ["IDd3ff0da5939fd92a"] = "적어도 블라드가 자기 밥그릇을 나눠주기 전에, 보험이라도 들어두려고 하나봐. 페이데이 갱단이란 이름은 녀석들한테는 새로운 단체란 말이야. 우리가 블라드 대신 힘을 써주면, 녀석의 라이벌들에게 그가 얼마나 컸는지 알게 될꺼야. 블라드가 귀찮은 녀석인건 알아. 하지만 이번일만 끝내면, 너희들을 카르텔에게 소개시켜 줄테니, 이번만 버텨봐.", --Before Vlad hands over any of that powder, he needs a little insurance. The name of the Payday Gang means something new. Having us flex a little muscle on his behalf shows his rivals how far he's come. He's a pain in the ass, I know, but after this he'll be ready to introduce you to his cartel, so it's worth it.
 ["IDadf1dac23b488fe2"] = "은혜 갚기", --Paying Rent
-["ID345df24c3af0c242"] = "나이트클럽과 스틸링 XMAS 하이스트들을 어려움 이상의 난이도로 완료하십시오.$NL;이 미션을 완수하려면 하이스트 시작 전 로비에 참가하여 끝까지 완수해야합니다.", --Complete the Nightclub and Stealing Xmas heists on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.
+["ID345df24c3af0c242"] = "나이트클럽과 스틸링 크리스마스 하이스트들을 어려움 이상의 난이도로 완료하십시오.$NL;이 미션을 완수하려면 하이스트 시작 전 로비에 참가하여 끝까지 완수해야합니다.", --Complete the Nightclub and Stealing Xmas heists on hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.
 ["ID48d87e91d9eecb0f"] = "레벨 50를 달성하십시오.", --Reach reputation level 50.
 ["IDe69763363942385f"] = "헥터가 우리와 일할 준비가 됐나봐. 녀석은 상당한 양의 코카인을 항구로 운반하려고 해. 아주 상당한 양을 말이야. 상품을 트럭으로 운송할때 우리도 같이 있어줬으면 한다는군. 내 예상에 이 정도 양의 거래면 카르텔에서 헥터의 지위도 높아지겠지. 녀석과 같이 행동하려고 한다면 지금이 절호의 기회야.", --Hector's ready to work with us. He's looking to move a big shipment of coke to the docks. A very big shipment. Wants us riding in the truck with the product. I'm guessing this amount of blow is going to see Hector move up the ranks in the cartel. Good opportunity for us to move with him.
 ["IDf22642c71ad7ec6a"] = "와치독스 작업을 매우 어려움 이상의 난이도로 완료하십시오.$NL;이 미션을 완수하려면 하이스트 시작 전 로비에 참가하여 끝까지 완수해야합니다.", --Complete the Watchdog job on very hard or higher.$NL;This assignment requires you to play from the lobby to the end of the heist.
@@ -5508,7 +5508,6 @@ heist_contact_jiufeng = "지우 펑",
 heist_contact_shayu = "샤위",
 heist_contact_mcshay = "제마 맥셰이",
 heist_contact_blaine = "블레인 키건",
-heist_contact_custom = " 커스텀 하이스트", --Beard Lib "Custom Heist"
 
 -- heist (HL)
 heist_bex = "산 마르틴 뱅크",
@@ -5535,6 +5534,8 @@ heist_trai = "로스트 인 트랜싯",
 heist_trai_hl = "배달 사고",
 heist_corp = "호스타일 테이크오버",
 heist_corp_hl = "기업 사냥",
+heist_deep = "크루드 어웨이크닝",
+heist_deep_hl = "석유의 종말",
 
 -- holdout (H1)
 heist_skm_bex = "산 마르틴 뱅크",

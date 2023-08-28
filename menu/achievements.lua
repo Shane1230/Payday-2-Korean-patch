@@ -735,7 +735,7 @@
 ["ID4aa9a217c15b73df"] = "AI 팀원이 사살한 것도 도전 과제에 인정됩니다.", --Kills by AI teammates will count towards this achievement.
 ["ID246d51df4f46acc7"] = "AI 팀원이 사살한 것도 도전 과제에 인정됩니다.", --Kills by AI teammates will count towards this achievement.
 ["ID5edb87e4715bca6c"] = "AI 팀원이 사살한 것도 도전 과제에 인정됩니다.", --Kills by AI teammates will count towards this achievement.
-["ID2e4a4e778e2111c0"] = "스틸링 XMAS 작업에서, 크리스마스 트리 주변 기둥 4개 안에 최소 10명의 시민을 산채로 묶어두고 탈출하십시오.", --On the Stealing Xmas job, escape the heist while keeping at least 10 zip-tied civilians alive within the 4 pillars around the Christmas tree.
+["ID2e4a4e778e2111c0"] = "스틸링 크리스마스 작업에서, 크리스마스 트리 주변 기둥 4개 안에 최소 10명의 시민을 산채로 묶어두고 탈출하십시오.", --On the Stealing Xmas job, escape the heist while keeping at least 10 zip-tied civilians alive within the 4 pillars around the Christmas tree.
 ["IDce7d81f9e30b192d"] = "아트 갤러리 작업에서, 화장실 안에서 경보를 울리지 않고 2명의 순찰중인 경비를 사살하십시오.", --In the Art Gallery job, kill two of the patrolling guards in stealth in the bathroom.
 ["ID85200e4a0240837c"] = "''The Hard Skull'' 마스크를 해금합니다.", --Unlocks ''The Hard Skull'' mask.
 ["ID14a5334a36819429"] = "How Much Wood Would a Heister Chuck...", --How Much Wood Would a Heister Chuck...
@@ -782,7 +782,7 @@
 ["IDf4a49cf9236dc839"] = "이 도전 과제는 게이지 스나이퍼 팩 DLC가 필요합니다.", --This achievement requires you to own the Gage Sniper Pack DLC.
 ["ID885e20a24a253cfb"] = "이 도전 과제는 게이지 스나이퍼 팩 DLC가 필요합니다.", --This achievement requires you to own the Gage Sniper Pack DLC.
 ["ID54bf67b25eb7e83b"] = "이 도전 과제는 게이지 스나이퍼 팩 DLC가 필요합니다.", --This achievement requires you to own the Gage Sniper Pack DLC.
-["IDfb648a3677272618"] = "스틸링 XMAS 작업을 오버킬 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Overkill difficulty or above.
+["IDfb648a3677272618"] = "스틸링 크리스마스 작업을 오버킬 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Overkill difficulty or above.
 ["ID9a516380f21e8fb5"] = "아무 트랜스포트 하이스트에서, 트랜스포트: 열차를 위한 계획서류를 찾으십시오.", --On any Armored Transport heist, find the plans for the Train Heist.
 ["ID8896b07fed2aea21"] = "Sticky Asphalt", --Sticky Asphalt
 ["IDce5fa55e4af4483d"] = "공원 도주 미션에서, 탈출수단이 도착할 떄 까지 경찰이 공원 안에 들어오지 못하게 하십시오.", --In the Park escape, ensure that no law enforcement enters the park before the escape van arrives.
@@ -1039,7 +1039,7 @@
 ["ID16623aba017197d5"] = "''43rd'' 마스크를 착용하고, Swedish K 기관단총으로 95명의 쉴드를 사살하십시오.", --While wearing the ''43rd'' mask, kill 95 Shields using the Swedish K submachine gun.
 ["ID12a8efa7b14e2549"] = "뱅크 하이스트: 금괴 작업을 데스 센텐스 난이도로 완료하십시오.", --Complete the Bank Heist: Gold on the Death Sentence difficulty.
 ["ID198c1e6bc40b2114"] = "Spend Money to Make Money", --Spend Money to Make Money
-["ID32c8a99697f455c4"] = "스틸링 XMAS 작업을 보통 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Normal difficulty or above.
+["ID32c8a99697f455c4"] = "스틸링 크리스마스 작업을 보통 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Normal difficulty or above.
 ["ID36dd9e1a02442ee6"] = "Vintage Villainy", --Vintage Villainy
 ["IDab6c99fa9c9e69d3"] = "GO 뱅크 작업을 매우 어려움 이상의 난이도로 완료하십시오.", --Complete the GO Bank job on the Very Hard difficulty or above.
 ["ID2e4b97f366d5f8d2"] = "염소 시뮬레이터 작업을 메이헴 이상의 난이도로 완료하십시오.", --Complete the Goat Simulator job on the Mayhem difficulty or above.
@@ -1061,7 +1061,7 @@
 ["ID123f249d467661dc"] = "Bullet Hell", --Bullet Hell
 ["ID591f4d02a42306fa"] = "I Am Ninja", --I Am Ninja
 ["ID44ad5ae955fc2071"] = "LEO 권총용 ''연장 총열''을 해금합니다.", --Awards one ''Long Slide'' weapon mod for the LEO pistol.
-["ID998357ad00eccb34"] = "스틸링 XMAS 작업을 메이헴 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Mayhem difficulty or above.
+["ID998357ad00eccb34"] = "스틸링 크리스마스 작업을 메이헴 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Mayhem difficulty or above.
 ["ID0421e5ebda461911"] = "Becoming Disreputable", --Becoming Disreputable
 ["IDf81e2a46a815c14b"] = "브루클린 10-10 작업을 데스 센텐스 난이도로 완료하십시오.", --Complete the Brooklyn 10-10 job on the Death Sentence difficulty.
 ["ID6b9cf1a16a78061c"] = "Celsius or Fahrenheit?", --Celsius or Fahrenheit?
@@ -1440,7 +1440,7 @@
 ["ID21570c31a1bebdc9"] = "Knock, Knock", --Knock, Knock
 ["ID19ff4b0e8fda8bdc"] = "You Gotta Start Somewhere", --You Gotta Start Somewhere
 ["ID2833449e64e4e70c"] = "What? You Want Me to Dance?", --What? You Want Me to Dance?
-["ID06dcc1864f08a629"] = "스틸링 XMAS 작업에서, 짝퉁 페이데이 마스크인 Paycheck 마스크를 두개 다 찾으십시오.", --On the Stealing Xmas job, find and take both Paycheck masks.
+["ID06dcc1864f08a629"] = "스틸링 크리스마스 작업에서, 짝퉁 페이데이 마스크인 Paycheck 마스크를 두개 다 찾으십시오.", --On the Stealing Xmas job, find and take both Paycheck masks.
 ["ID94969887154e8920"] = "죽은 자에게서 훔치십시오.", --Steal from the Dead.
 ["IDe31de4d400a932cc"] = "Day at the Museum", --Day at the Museum
 ["ID17d78fb09886eb53"] = "''Apache Mystic'' 마스크, ''금빛 욕망'' 재질과 ''성자'' 패턴을 해금합니다.", --Unlocks the ''Apache Mystic'' mask, ''Gold Fever'' material and ''Sacred'' pattern.
@@ -1687,7 +1687,7 @@
 ["ID2669ee900ec15b75"] = "Female Concert Goer 마스크, ''스테인드 글라스'' 재질과 ''사운드웨이브'' 패턴을 해금합니다.", --Unlocks the ''Female Concert Goer'' mask, ''Stained Glass'' material and ''Soundwave'' pattern.
 ["ID2b706c635d483e8b"] = "Bank Robbery for Dummies", --Bank Robbery for Dummies
 ["IDbb46a4ea8711ec62"] = "Falcon 돌격소총용 ''레트로 포어그립''을 해금합니다.", --Unlocks the ''Retro Foregrip'' for the Falcon rifle.
-["IDb1b2ea60e1019ff4"] = "스틸링 XMAS 작업을 데스위시 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Death Wish difficulty or above.
+["IDb1b2ea60e1019ff4"] = "스틸링 크리스마스 작업을 데스위시 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Death Wish difficulty or above.
 ["IDc5b14477157a0316"] = "The Fuel Must Flow", --The Fuel Must Flow
 ["IDf3ddb2f8cf4c89d4"] = "오버킬 이상의 난이도로, 25% 이하의 체력을 가진채로 15명의 FBI 스왓 유닛, FBI 헤비 스왓 유닛을 칼로 사살하십시오.", --Kill 15 FBI SWAT and FBI Heavy SWAT units with a knife while at 25% or less health on the OVERKILL difficulty or above.
 ["ID400faabaad7ee7e2"] = "Payday Transport Service", --Payday Transport Service
@@ -2151,7 +2151,7 @@
 ["ID139c7cf7adcd0dca"] = "Fourth Nightmare", --Fourth Nightmare
 ["IDde61cec9d6dd9693"] = "''Felis Lynx'' 마스크와 ''Ursus Maritimus'' 마스크를 해금합니다.", --Unlocks the ''Felis Lynx'' mask and the ''Ursus Maritimus'' mask.
 ["IDe94b974da6dafcfc"] = "이 도전 과제는 구 버전과 신 버전 안전가옥에서 둘 다 달성 가능합니다.", --This achievement can be unlocked in both the old and the new safe house.
-["IDc93e7b60b87777c2"] = "스틸링 XMAS 작업을 데스 센텐스 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Death Sentence difficulty.
+["IDc93e7b60b87777c2"] = "스틸링 크리스마스 작업을 데스 센텐스 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Death Sentence difficulty.
 ["ID7b5f43154d1c7be3"] = "Politics Is Serious Business", --Politics Is Serious Business
 ["IDb6a67b98f771965d"] = "''Anubis'' 마스크, ''붕대'' 재질과 ''호크 헬멧'' 패턴을 해금합니다.", --Unlocks the ''Anubis'' mask, ''Mummy Bandages'' material and ''Hawk Helm'' pattern.
 ["ID6b61488c653ab547"] = "Obsessive Opening", --Obsessive Opening
@@ -2500,8 +2500,8 @@
 ["IDad0ec9e5eb16fcd3"] = "멜트다운 작업을 데스위시 이상의 난이도로 완료하십시오.", --Complete the Meltdown job on the Death Wish difficulty or above.
 ["IDd63771da431dd12c"] = "멜트다운 작업에서, 모든 추가 전리품 가방을 확보하십시오.", --In the Meltdown job, secure all additional loot.
 ["ID1ae66edef9ce767e"] = "Thundersnow", --Thundersnow
-["ID19e872aa1e78e366"] = "스틸링 XMAS 작업을 원다운 모드가 활성화 된 데스 센텐스 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Death Sentence difficulty with the One Down mechanic activated.
-["IDaa1afdc2d49a07d8"] = "스틸링 XMAS 작업에서, 오버킬 이상의 난이도로 가능한 모든 추가 전리품 가방을 확보하십시오.", --On the Stealing Xmas job, secure all additional loot on the OVERKILL difficulty or above.
+["ID19e872aa1e78e366"] = "스틸링 크리스마스 작업을 원다운 모드가 활성화 된 데스 센텐스 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Death Sentence difficulty with the One Down mechanic activated.
+["IDaa1afdc2d49a07d8"] = "스틸링 크리스마스 작업에서, 오버킬 이상의 난이도로 가능한 모든 추가 전리품 가방을 확보하십시오.", --On the Stealing Xmas job, secure all additional loot on the OVERKILL difficulty or above.
 ["IDa6045a7f4c28cae8"] = "Most Wanted", --Most Wanted
 ["IDc7d35275c49b8a66"] = "세이프하우스 나이트메어 작업을 매우 어려움 이상의 난이도로 완료하십시오.", --Complete the Safe House Nightmare job on the Very Hard difficulty or above.
 ["IDd1cfa3d907702828"] = "No One Cared Who I Was...", --No One Cared Who I Was...
@@ -2918,8 +2918,8 @@
 ["ID0751244baade1f7b"] = "산타의 작업장 작업을 오버킬 이상의 난이도로 완료하십시오.", --Complete the Santa's Workshop job on the Overkill difficulty or above.
 ["ID0f106ce870903662"] = "Sold Out", --Sold Out
 ["ID1a256d1948b776fd"] = "Stocking Stuffer", --Stocking Stuffer
-["IDc82f3ef37fe1f3ec"] = "스틸링 XMAS 작업을 어려움 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Hard difficulty or above.
-["IDb1ec1610c34ec6ac"] = "스틸링 XMAS 작업을 매우 어려움 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Very Hard difficulty or above.
+["IDc82f3ef37fe1f3ec"] = "스틸링 크리스마스 작업을 어려움 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Hard difficulty or above.
+["IDb1ec1610c34ec6ac"] = "스틸링 크리스마스 작업을 매우 어려움 이상의 난이도로 완료하십시오.", --Complete the Stealing Xmas job on the Very Hard difficulty or above.
 ["ID8dde4f8530f4670c"] = "Crosstown Traffic", --Crosstown Traffic
 ["ID219025cd7542bd67"] = "트랜스포트: 교차로 작업을 매우 어려움 이상의 난이도로 완료하십시오.", --Complete the Transport: Crossroads job on the Very Hard difficulty or above.
 ["ID7e7cdb3b0435dbe0"] = "트랜스포트: 교차로 작업을 오버킬 이상의 난이도로 완료하십시오.", --Complete the Transport: Crossroads job on the Overkill difficulty or above.

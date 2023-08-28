@@ -688,7 +688,7 @@
 ["ID9d26430ab207169a"] = "테스트", --Test
 ["ID000849a77f8acf55"] = "숙달된 운전사", --Expert Driver
 ["ID37cbd12e5e7937ab"] = "숙달된 운전사", --Expert Driver
-["IDc96099eb0f3a3b50"] = "걸어다니는 악몽 뮤테이터를 활성화하고, 화이트 크리스마스나 산타의 작업장이나 스틸링 XMAS 중 하나를 완료하십시오. 이 과제를 완료하려면, 해당 게임의 처음부터 끝까지 참여해야합니다.", --While the Waking Nightmare mutator is active, complete any of the White Xmas, Santa's Workshop, or Stealing Xmas jobs. To complete this challenge, you have to have played the heist from start to end.
+["IDc96099eb0f3a3b50"] = "걸어다니는 악몽 뮤테이터를 활성화하고, 화이트 크리스마스나 산타의 작업장이나 스틸링 크리스마스 중 하나를 완료하십시오. 이 과제를 완료하려면, 해당 게임의 처음부터 끝까지 참여해야합니다.", --While the Waking Nightmare mutator is active, complete any of the White Xmas, Santa's Workshop, or Stealing Xmas jobs. To complete this challenge, you have to have played the heist from start to end.
 ["IDd9d06404cc69847d"] = "계약자:", --Contact:
 ["ID1774f3cc536bc621"] = "새로운 Payday 2 무기 팩", --The new Payday 2 Weapon Pack
 ["IDae9d7ff26c71b6a9"] = "주위에 3명이상의 적이 존재할 때, ##$multiperk;##만큼의 피해 감소효과를 받습니다.$NL;$NL;근접무기로 적을 맞춘뒤 ##$multiperk2;##초안에 다시 근접무기로 적을 성공적으로 맞추면 ##$multiperk3;##배의 대미지를 가합니다.", --When you are surrounded by three enemies or more, you receive ##$multiperk;## less damage from enemies.$NL;$NL;Your second and each consecutive melee hit within ##$multiperk2;## second of the last one will deal ##$multiperk3;## times its normal damage.
@@ -1288,7 +1288,7 @@
 ["IDdcd51b406fc65fd7"] = "카드 뽑기를 할때마다 해외계좌로부터 비용을 지불합니다.$NL;$NL;해외계좌에서 지불하는 비용: $contract_fee;$NL;현재 해외계좌 잔액: $offshore;", --A fee will be deducted from your offshore account when you enter the casino.$NL;$NL;Offshore cost: $contract_fee;$NL;Offshore account: $offshore;
 ["IDc338e56316c38efb"] = "베이직: ##$basic;##$NL;당신은 OVE9000 휴대용 전기톱을 부무장으로 사용할 수 있습니다.$NL;$NL;에이스: ##$pro;##$NL;OVE9000 전기톱의 톱날을 ##$multipro;##개 더 소지할 수 있습니다. 휴대용 전기톱의 톱날을 탄소강 톱날로 교체하여 전기톱의 효율이 ##$multipro2;##만큼 상승합니다.", --BASIC: ##$basic;##$NL;Unlocks the OVE9000 portable saw for you to use as a secondary weapon.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## extra saw blade for the OVE9000 portable saw. You replace your saw blades with carbon blades, increasing your saw efficiency by ##$multipro2;##.
 ["IDe950bba0d50f234e"] = "게이지 스펙 옵스", --Gage Spec Ops
-["ID158a6da557cc0a9d"] = "스틸링 XMAS", --Stealing Xmas
+["ID158a6da557cc0a9d"] = "스틸링 크리스마스", --Stealing Xmas
 ["ID25eeb9faf1259796"] = "레벨링", --Leveling
 ["ID93baa699a8df0ac4"] = "차베즈", --Chavez
 ["IDb8c7c1c97bc81c7e"] = "채광창을 통에 떨어뜨린 부품으로 비스트 드릴을 조립하여 드릴을 뚫어버립니다.", --Assemble the Beast drill from the pieces dropped through the lightwell, and use it to chew through the vault door.
@@ -3447,7 +3447,7 @@
 ["ID62b4c4f22e2370fb"] = "당신의 체력에 반비례하여, 방탄량 회복속도가 상승합니다. 당신의 체력이 ##$multiperk;##이하일 경우, 방탄량 회복속도가 최대 ##$multiperk2;##만큼 추가로 더 상승합니다.", --The lower your health, the more armor recovery rate you have. When your health is below ##$multiperk;##, you will gain up to an additional ##$multiperk2;## armor recovery rate.
 ["ID5f6ed568d976dede"] = "중간정도의 거리안에 적이 존재할 때, ##$multiperk;##만큼의 피해 감소효과를 받습니다.", --When you are within medium range of an enemy, you receive ##$multiperk;## less damage from enemies.
 ["IDb430cab3089ccf1c"] = "이미 하이스트가 시작하였습니다.$NL;사전계획을 변경할 수 없습니다!", --Heist already started.$NL;No alterations can be made to the preplan!
-["ID67ee0a32b54c1663"] = "화이트 크리스마스, 산타의 작업장, 그리고 스틸링 XMAS 작업을 전부 완료하십시오. 이 작업을 완료하려면 해당 게임의 처음부터 끝까지 참여해야합니다.", --Complete the White Xmas, Santa's Workshop, and Stealing Xmas jobs. To complete this challenge, you have to have played the heist from start to end.
+["ID67ee0a32b54c1663"] = "화이트 크리스마스, 산타의 작업장, 그리고 스틸링 크리스마스 작업을 전부 완료하십시오. 이 작업을 완료하려면 해당 게임의 처음부터 끝까지 참여해야합니다.", --Complete the White Xmas, Santa's Workshop, and Stealing Xmas jobs. To complete this challenge, you have to have played the heist from start to end.
 ["IDea9b9926878d971d"] = "헤드샷의 대미지를 ##$multibasic;##만큼 증가시킵니다.", --Increases your headshot damage by ##$multibasic;##.
 ["ID26f2847a8d19f111"] = "지하실에서는 존 윅이 사격장을 차렸고, 바로 옆에 울프의 작업장이 있습니다. 반대편에는 소콜과 드라간이 각자의 단련장과 훈련시설을 들였습니다. 보디는 그의 서핑보드를 위한 작업장을 차렸습니다. 그리고 자켓을 위한 공간도 있습니다.$NL;$NL;또한 지하에는 갱단이 피흘려 벌어온 보상들을 보관하는 금고가 위치해있습니다.", --In the basement John Wick is setting up a shooting range, with Wolf's workshop right next door. At the other end, Sokol and Dragan have their gym and training facilities. Bodhi has set up a workshop for his surfboards, too. And then there's Jacket's corner.$NL;$NL;The basement is also home to the vault, where the gang keeps all that sweet loot.
 ["IDc578dd0303b7f5ef"] = "경보 버튼을 무력화 시켜 사용하지 못하도록 만듭니다.", --Disable the Alarm Button so it can not be used
@@ -4088,7 +4088,7 @@
 ["ID72715109a0bebab3"] = "아무리 경찰이라도 범죄에 물들수 있습니다. 베인한테도 물어봐요. 드라간도 동의할껄요.", --Even a cop can be turned to crime. Ask Bain. Ask Dragan.
 ["ID7864c282aa230800"] = "레이드는 대체로 물량이 넘쳐납니다. 따라서 그에 따라갈 속도도 중요합니다. 재빠른 속도로 강력한 화력을 보인다면 크나큰 피해를 입힐 것 입니다.", --Raids are often crowded, so speed is of the essence. Combine high velocity with sharp sludges and you'll make a serious impact.
 ["ID73844390b2282146"] = "하이스트 중", --Heisting
-["ID25921a6e7f801169"] = "스틸링 XMAS 작업에서, 크리스마스 트리 주변의 기둥 4개 안에 최소 10명의 포박시킨 시민들을 모아두고 완료하십시오.", --Complete the Stealing Xmas job. While haveing at least 10 zip-tied civilians alive within the 4 pallars around the Christmas Tree.
+["ID25921a6e7f801169"] = "스틸링 크리스마스 작업에서, 크리스마스 트리 주변의 기둥 4개 안에 최소 10명의 포박시킨 시민들을 모아두고 완료하십시오.", --Complete the Stealing Xmas job. While haveing at least 10 zip-tied civilians alive within the 4 pallars around the Christmas Tree.
 ["ID0a13f27a76db23d3"] = "당신의 현금, 레벨, 업그레이드를 전부 초기화합니다.", --This will reset your cash, reputation and upgrades.
 ["IDf0513a024b2bbc2f"] = "Judge 산탄총을 위한 커스텀 강화 프레임.", --A Custom Reinforced Frame for the Judge Shotgun.
 ["ID6c5db8e5520a7c1b"] = "암시장", --Black Market
@@ -5316,7 +5316,7 @@
 ["ID85898f9d19cf308a"] = "닥터 이블", --Dr. Evil
 ["ID4a5b4f721bf3346f"] = "더 다이아몬드 작업에서, 오버킬 이상의 난이도로 경보가 울린후 더 다이아몬드 방의 함정을 작동시키지 않고 하이스트를 완료하십시오.", --In the Diamond job, complete the diamond puzzle, then purposefully set off the alarm, steal the Diamond and escape on the OVERKILL difficulty or above.
 ["ID086b4870b60812ce"] = "깔건 까자고. 염소들은 냄새가 지독하다고, 진짜로. 그런걸 한 12개나 헬리콥터로 옮기고 있으면 심한 냄새가 밴다고. 이런 고역을 조금이라도 덜어주기 위해서, 염소를 옮기는 짓거리가 끝나면 바로 샤워하러 빨리 달려가자고.", --Let's face it. Goats smell bad, they really do. Hauling a dozen or so of them in a helicopter means you will smell bad too. To spare your fellow heisters a load of agony, head straight to the shower after any goat-hauling shenanigans.
-["IDa6b45f4035a4688c"] = "스틸링 XMAS 작업에서, 오버킬 이상의 난이도로 가능한 모든 추가 전리품 가방을 확보하십시오.", --On the Stealing Xmas job, secure all additional loot on the OVERKILL difficulty or above.
+["IDa6b45f4035a4688c"] = "스틸링 크리스마스 작업에서, 오버킬 이상의 난이도로 가능한 모든 추가 전리품 가방을 확보하십시오.", --On the Stealing Xmas job, secure all additional loot on the OVERKILL difficulty or above.
 ["ID6376b5f662fb2780"] = "차가 있었어?!", --There was a Car ?!
 ["ID260f0fb83753d0ec"] = "과다 약물", --Overdose
 ["IDa3ac4bedbbd8b75e"] = "골든 그린 카지노 하이스트를 경보를 울리지 않고 스텔스로 완료하십시오.", --Complete the Golden Grin Casino heist in stealth.
@@ -5498,16 +5498,90 @@
 ["ID5cdbdae452885833"] = "", --Bain received The Guide of Cagliostro as payment for a heist against a hospital in New York many years ago.
 ["ID21d617c38b6034ce"] = "", --You accepted a ransom of $skirmish_cash; after assault wave $wave;.
 
---대충 퍽덱 추가 한것
-
 --메뉴 추가
+menu_connect_eos = "연결 중...",
 menu_lby_job_crimenet = "하이스트 변경", --Change Heist
 menu_lby_crimenet = "하이스트 선택", --Select Heist
 menu_movie_theater = "영화관", --Movie Teater
 menu_movie_theater_help = "영화관을 방문합니다.", --open the movie theater.
 menu_visit_community = "커뮤니티", --community
 menu_visit_community_help = "세상에서 가장 좋은 포럼에서 오버킬의 다른 강도들에게 이야기해보세요.", --Come talk  to us at overkill and other heister in the best forum on earth.
+menu_cn_search_lobby_code = "로비_코드",
+menu_cn_skirmish = "홀드아웃",
+menu_cn_leakedrecording = "로스트_테이프",
+--lobbycode
+menu_lobby_code = "로비 코드",
+menu_lobby_code_hidden = "당신의 로비 코드가 숨겨졌습니다.",
+menu_lobby_code_show = "로비코드 보기",
+menu_lobby_code_hide = "로비코드 숨기기",
+menu_lobby_code_copied = "복사됨!",
+--socialhub
+menu_social_hub = "소셜 허브",
+menu_social_hub_help = "PAYDAY 2 소셜 허브 열기",
+menu_socialhub_options = "소셜 허브 옵션",
+menu_user_code = "유저 코드",
+socialhub_tab_friends = "하이스터",
+socialhub_friends_cross_title = "PD2 하이스터 즐겨찾기",
+socialhub_user_action_invite = "초대",
+socialhub_friends_platform_title_steam = "스팀 친구",
+socialhub_tab_invites = "초대",
+socialhub_invites_header_search = "검색 결과",
+socialhub_invites_header_invite = "로비 초대",
+socialhub_tab_blocked = "차단됨",
+menu_socialhub_options_help = "소셜 허브 설정",
+menu_toggle_socialhub_hide_code = "코드 보기",
+menu_toggle_socialhub_hide_code_help = "기본으로 유저 코드와 로비 코드를 표시합니다.",
+menu_socialhub_invite = "초대 설정",
+menu_socialhub_invite_help = "누구로부터 소셜 허브 초대를 받는걸 허용할지 선택합니다. 즐겨찾는 친구 전용, 또는 받지 않기",
+menu_socialhub_invites_all = "모두",
+menu_socialhub_invites_friends = "즐겨찾기만",
+menu_socialhub_invites_off = "끄기",
+menu_socialhub_notification_multi_option = "알림 설정",
+menu_socialhub_notification_help = "소셜허브 알림의 크기를 설정합니다.",
+menu_socialhub_notification_full = "전부",
+menu_socialhub_notification_compact = "간략히",
+menu_socialhub_notification_off = "끄기",
+menu_players_socialhub_add_user = "소셜허브에 즐겨찾기에 플레이어 추가",
+menu_players_socialhub_add_user_help = "이 플레이어를 소셜허브 즐겨찾기 목록에 추가합니다.",
+menu_players_socialhub_block_user = "소셜허브에서 차단",
+menu_players_socialhub_block_user_help = "이 플레이어가 소셜허브를 통해 연결하지 못하도록 차단합니다.",
+menu_players_socialhub_remove_user = "소셜허브에서 삭제",
+menu_players_socialhub_remove_friend_help = "이 플레이어를 당신의 소셜허브 즐겨찾기에서 삭제합니다.",
+--socialhub_others
+menu_socialhub_notification_unknown = "알수없는 유저", --UNKNOWN USER
+socialhub_friends_platform_title_epic = "에픽 친구", --Epic Friends
+socialhub_friends_platform_title = "플랫폼 하이스터 즐겨찾기", --Platform Favorite Heisters
+socialhub_lobby_action_join = "참가", --Join
+socialhub_user_action_remove = "즐겨찾기 해제", --Un-Favorite
+socialhub_user_action_unblock = "차단 해제", --Unblock
+socialhub_user_action_add = "즐겨찾기 추가", --Add Favorite
+socialhub_user_action_block = "차단", --Block
+socialhub_lobby_action_decline = "거부", --Decline
+menu_socialhub_controller_paste = "붙여넣기", --PASTE
+socialhub_user_action_invite_sent = "초대 전송됨!", --Invite sent!
+menu_socialhub_confirmation_dialog_text = "플레이어 [$USER_NAME;]님을 [$ACTION;] 하시겠습니까?", --"Do you want to [$ACTION;]: ($USER_NAME;)?",
+menu_socialhub_confirmation_dialog_title = "재확인", --"Confirm Action",
 
+--infamy
+menu_infamy_infamy_panel_reputation_level = "현재 명성: $reputation;",
+menu_infamy_infamy_panel_infamy_level = "현재 악명: $infamy;",
+menu_infamy_infamy_panel_prestige_level = "현재 악명치: ",
+menu_infamy_go_infamous = "악명 활성화",
+menu_infamy_go_inf_rep = "명성을 소모하여 악명 활성화",
+menu_infamy_go_infamous_error_crime_spree = "크라임 스프리가 활성화된 상태로는 악명을 올릴 수 없습니다.",
+menu_infamy_go_inf_prestige = "악명치를 소모하여 악명 활성화",
+
+--perkdeck
+menu_st_category_all = "모두",
+menu_st_category_offensive = "오펜시브",
+menu_st_category_defensive = "디펜시브",
+menu_st_category_covert = "은폐성",
+menu_st_category_supportive = "서포티브",
+menu_st_category_versatile = "범용성",
+menu_st_category_stealth = "스텔스",
+menu_st_category_favorites = "즐겨찾기",
+menu_specialization_key_but_deck = "퍽덱 전부 획득",
+menu_specialization_key_favorite = "즐겨찾기 등록",
 --Leech 리치퍽덱 추가
 menu_st_spec_22 = "리치", 
 menu_st_spec_22_desc = "여러분은 전투 중 먹잇감을 고르는 거머리 같은 존재입니다. 적의 생기를 빨아서 자신과 동료를 튼튼하게 하지요. 그럼에도, 여러분은 아무나 와서 두들겨 팰 수 있는 옥외변소 같은 존재 역시 아닙니다. 여러분은 적에게 상당한 고통을 선사하며 그러한 공격성으로 팀의 전력을 강화할 수 있습니다.",
@@ -5573,7 +5647,6 @@ menu_one_down = "원다운", --ONE DOWN
 menu_toggle_one_down = "원다운", -- ONE DOWN
 menu_item_preplanning_rebuy = "사전계획 재구매", --REBUY ASSETS
 menu_pp_cat_entry_plan_generic = "진입 계획", --ENTRY PLAN
-
 menu_chat_preplanning_vote_on_plan = "$name; 님이 $plan;: $type;에 투표하였습니다.", --$name; voted on the $plan;: $type;
 
 -- setting option
@@ -5644,3 +5717,103 @@ trophy_bains_book_completion_objective = "노머시 작업을 보통 이상의 �
 trophy_bex = "블라드의 테이프",
 trophy_bex_desc = "오, 이런. 이걸 태우지 않았다는 걸 블라드가 알면 완전 꼭지가 돌겠지. 근데 이 메시지에 뭐가 그리 특별한 게 있다는 거야? 항상 다양한 각도로 행동한다는 건 다 알고 있지만 말이야...",
 trophy_bex_objective = "산 마르틴 뱅크의 금고구역에서 추가 전리품을 조사하십시오.",
+
+--BeardLib korean (v4.87)
+mod_assets_error = "에러!",
+menu_ok = "확인",
+bm_global_value_mod = "모드",
+menu_l_global_value_mod = "이 상품은 모딩 커뮤니티 아이템입니다!",
+custom_map_title = "커스텀 하이스트 = $map;",
+custom_map_download_available = "다운로드가 가능합니다.",
+custom_map_alert = "커스텀 하이스트 경고",
+custom_map_needs_download = "이 하이스트를 계속할려면 $name;을(를) 다운로드 하셔야 합니다, 다운로드 하시겠습니까?\n$url;",
+custom_map_host_old_version = "호스트가 이전 버전의 BeardLib을 실행하고 있어 커스텀 하이스트를 다운로드 할 수 없습니다!",
+custom_map_failed_download = "커스텀 하이스트를 다운로드하지 못했습니다.",
+custom_map_missing_updater = "해당 맵에 업데이터가 없기 때문에 커스텀 하이스트 다운로드를 시작 할 수 없습니다!",
+heist_contact_custom = " 커스텀 하이스트", -- 상단 정렬을 위한 첫글자 띄어쓰기
+heist_contact_custom_description = "커스텀 하이스트는 게임에 추가되는 완전히 새로운 하이스트이며 커뮤니티에서 만듭니다.",
+custom_map_cant_download = "호스트가 설정한 하이스트를 다운로드할 수 없습니다. 연결이 끊겼습니다.",
+custom_map_failed = "하이스트를 다운로드하는 동안 문제가 발생했습니다.",
+beardlib_mods_manager = "BeardLib 모드 매니저",
+beardlib_updates_available = "BeardLib 모드 매니저: 업데이트 가능!",
+beardlib_updates_available_desc = "BeardLib 모드 매니저로 들어가서 업데이트합니다.",
+beardlib_visit_page = "페이지 방문.",
+beardlib_update_all = "전부 업데이트 하기",
+beardlib_updated = "최신 버전입니다!",
+beardlib_waiting = "응답을 기다리는 중..",
+beardlib_download_complete = "다운로드 완료, 설치 중..",
+beardlib_download_failed = "다운로드가 실패했습니다.",
+beardlib_no_change = "최신 버전이 설치되어있습니다!",
+beardlib_no_change_desc = "최신 버전의 업데이트가 이미 설치되어 있습니다!",
+beardlib_mod_type = "타입 = %type",
+beardlib_mod_type_base = "BLT",
+beardlib_downloading = "다운로드중 ",
+beardlib_done = "완료!",
+beardlib_close = "닫기",
+beardlib_mods_manager_important_title = "$mod;에 새 버전이 있습니다!",
+beardlib_mods_manager_important_help = "BeardLib 모드 매니저로 이동하여 업데이트 하시겠습니까?",
+beardlib_search = "찾기",
+beardlib_important_notice = "업데이트 알림 표시",
+beardlib_match_case = "대소문자 구분",
+beardlib_limit_results = "제한 결과",
+beardlib_tick_all = "현재 모든 항목 선택",
+beardlib_untick_all = "현재 모든 항목 선택 취소",
+beardlib_settings = "설정",
+beardlib_b_settings = "BeardLib 설정",
+beardlib_menu_color = "메뉴 색상",
+beardlib_show_images = "모드 이미지 표시",
+beardlib_reset_settings = "모든 설정을 재설정하기",
+beardlib_dev_mode = "개발자 모드",
+beardlib_dev_mode_help = "개발자 모드는 오류 다이로그에 표시할 오류를 더 추가합니다 (파일 로드 실패 시처럼).\n모든 유형의 BeardLib 모드를 개발할 때 쉽게 문제를 해결할 수 있도록 이 모드를 사용해야 합니다.\n오류는 보통 BLT 로그에 기록됩니다.",
+beardlib_important_notice_help = "중요 모드에 대한 업데이트가 있을 때 BeardLib가 알리겠습니까?",
+beardlib_write_failed = "경로를 쓸 수 없습니다. :/",
+beardlib_achieves_title = "커스텀 도전과제",
+beardlib_achieves_desc = "현재 설치된 커스텀 도전과제를 추적하고 확인합니다.",
+beardlib_achieves_packages_installed = "패키지 $nbpackages; 개가 설치되어있습니다.",
+beardlib_achieves_completed_achievements = "$completed; / $total; 완료된 도전과제 ($percent;%)",
+beardlib_achieves_unlocked = "달성된 날짜 = $time;",
+beardlib_achieves_header_objectives = "목표",
+beardlib_achieves_header_rewards = "보상",
+beardlib_achieves_header_unlocked = "달성됨",
+beardlib_achieves_header_unlocked_date = "날짜 = $time;",
+beardlib_achieves_reward_exp = "경험치",
+beardlib_achieves_reward_cash = "사용 가능한 현금",
+beardlib_achieves_reward_offshore = "해외계좌 현금",
+beardlib_achieves_reward_cc = "컨티넨탈 코인",
+beardlib_achieves_hidden = "숨겨진 도전과제",
+beardlib_achieves_hidden_desc = "해당 도전과제를 달성하면 자세한 내용을 볼 수 있습니다.",
+beardlib_log_sounds = "사운드 ID 기록",
+beardlib_log_sounds_help = "들리는 각 사운드 ID를 기록합니다. 기존 사운드를 바꾸고 싶은데 해당 사운드 ID가 무엇인지 모를 때 유용합니다.",
+beardlib_found_errors = "BeardLib 모드 중 하나 이상의 모드에서 오류가 발생했습니다.",
+beardlib_errors_tip = "모드에서 발생한 오류들을 제거하는 것은 당신의 일입니다.\n만약 모드 제작자가 아닌 경우 해당 오류를 모드 작성자에게 보고할 수 있습니다. 보고 하기 전에 모드들이 최신으로 업데이트 되어있는지 확인하십시오.",
+beardlib_optimized_music_load = "음악 로드 최적화",
+beardlib_optimized_music_load_help = "커스텀 음악을 재생할 때만 로드하게 합니다. 커스텀 음악 전환 시 약간의 지연이 발생할 수 있습니다.\n다만 32비트 램 제한에 도달해서 충돌이 발생하지 않게 조심하십시오.",
+beardlib_errors_dialog = "오류 다이로그 표시",
+beardlib_update = "Update",
+beardlib_waiting_updates = "업데이트(들) 가능함 ",
+beardlib_mod_enabled = "활성화",
+beardlib_mod_enabled_help = "모드 활성화 여부를 결정합니다.\n모드가 비활성화 되어있으면 해당 모드의 코드가 실행되지 않습니다.\nBLT 모드는 BeardLib에 의해 비활성화될 수 없습니다. 비활성화 할려면 BLT 자체를 통해 비활성화할 수 있습니다.",
+beardlib_mod_ignore_updates = "업데이트 무시",
+beardlib_mod_ignore_updates_help = "BeardLib이 이 모드의 향후 업데이트를 무시합니까?",
+beardlib_mod_settings = "모드 설정 - $mod;",
+beardlib_mod_by = "작성자 $author;",
+beardlib_updates_download_now = "다운로드",
+beardlib_mod_type_Add = "애드온",
+beardlib_mod_type_Map = "맵",
+beardlib_mod_type_Base = "기반",
+beardlib_mod_disabled = "비활성화",
+beardlib_waiting_update = "업데이트 가능함",
+beardlib_show_errors_dialog = "메인 메뉴로 들어갈 때 오류 다이로그 표시",
+beardlib_show_errors_dialog_help = "로드하는 동안 모드가 심각한 오류(예 = 오래된 BeardLib)에 발생하면 일반적으로 이를 알려줍니다.\n따라서 모드를 업데이트하거나 제거할 수 있습니다.\n참고 = 개발자 모드를 사용할 때는 이 설정을 유지해야 합니다.",
+beardlib_mod_develop_mode = "개발 모드",
+beardlib_mod_develop_mode_help = "해당 모드에 개발 모드를 활성화하면 자동 업데이트가 비활성화되고 자동 생성된 추가 파일과 같은 항목이 다시 로드될 때마다 새로 고쳐집니다.",
+beardlib_mod_optional_version = "버전 선택",
+beardlib_mod_optional_version_help = "버전 선택을 선택하면 자동 업데이트가 해당 버전으로 전환됩니다.\n이 기능들은 실험 상태일 가능성이 높으며 새로운 기능과 버그가 포함되어 있을 수 있습니다.",
+beardlib_achieves_no_pkg = "왼쪽 패널에 있는 패키지를 선택하여 관련 도전과제를 표시합니다.",
+beardlib_log_init = "모드 로그 초기화",
+beardlib_log_init_help = "해당 모드가 초기화 할 시 모드의 로그를 초기화 합니다.",
+beardlib_custom_maps_only = "커스텀 맵만 표시",
+beardlib_github_updates = "깃허브 / 베타 업데이트",
+beardlib_github_updates_help = "이를 활성화하면 모드워크샵이 아닌 깃허브에서 업데이트를 받을 수 있습니다.\n깃허브 버전은 실험 상태이며 새로운 기능과 버그가 있을 수 있습니다.",
+bm_menu_glove_variations = "커스터마이즈 장갑",
+bm_menu_btn_customize_gloves = "커스터마이즈 장갑",

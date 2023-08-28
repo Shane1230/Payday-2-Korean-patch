@@ -4898,6 +4898,7 @@ bm_menu_optimal_range = "유효 범위", --Optimal Range
 bm_menu_crit = "크리티컬",
 bm_menu_charm = "장식품", --Charm
 bm_menu_second_sight = "보조 조준경",
+bm_menu_exclusive_set = "전용 부품",
 
 --투척무기 추가
 bm_grenade_xmas_snowball = "눈덩이",
