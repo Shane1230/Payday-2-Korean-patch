@@ -4906,3 +4906,11 @@ bm_grenade_xmas_snowball = "눈덩이",
 bm_grenade_poison_gas_grenade = "바이퍼 수류탄",
 bm_grenade_sticky_grenade = "점착 수류탄",
 bm_grenade_copr_ability = "리치 약병",
+
+--무기탭
+bm_menu_bolt = "볼트",
+bm_menu_underbarrel = "언더배럴",
+bm_wp_upg_a_rip = "툼스톤 슬러그탄",
+bm_menu_btn_customize_weapon_color = "커스텀 색상 변경",
+bm_menu_customizable_weapon_color = "커스텀 색상",
+bm_menu_customizable_weapon_color_desc = "당신의 무기에 커스텀 색상을 입힙니다.",

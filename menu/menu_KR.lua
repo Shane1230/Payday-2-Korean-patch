@@ -5509,6 +5509,7 @@ menu_visit_community_help = "세상에서 가장 좋은 포럼에서 오버킬�
 menu_cn_search_lobby_code = "로비_코드",
 menu_cn_skirmish = "홀드아웃",
 menu_cn_leakedrecording = "로스트_테이프",
+menu_lby_side_jobs = "부가작업",
 --lobbycode
 menu_lobby_code = "로비 코드",
 menu_lobby_code_hidden = "당신의 로비 코드가 숨겨졌습니다.",
@@ -5601,6 +5602,7 @@ menu_st_spec_23 = "카피캣",
 menu_st_spec_23_desc = "순간기억능력과 정밀한 반사신경을 갖춘 카피캣은 경이로운 신체능력의 보유자입니다. 움직임을 예측해 총알을 피하거나 심지어는 간단히 튕겨낼 수 있을 수준까지 빠르게 움직일 수 있죠. 여러분은 다른 특성 덱을 면밀히 연구하여, 이제 그들의 기본 능력을 흉내 내어 스스로의 능력을 향상할 수 있게 되었습니다. 여러 기술을 짜 맞춰서 기존의 것과 유사하면서도 독특한 스타일을 만들어 보세요. 다른 사람들이 베낀다고 뭐라 한다면, 모방하는 것이야말로 오리지널에게 보내는 진정한 찬사라는 점을 되새기게 해주세요.",
 menu_deck23_1 = "전술 장전 (부스트 선택)",
 menu_deck23_1_desc = "주무기로 ##$multiperk;## 처치를 달성할 시 보조무기를 자동으로 재장전하며, 반대의 경우도 성립합니다.$NL;$NL;무기 전환 속도가 ##$multiperk2;##만큼 증가합니다.$NL;$NL;",
+menu_pxp4_deck23_1_desc = "주무기로 ##$multiperk;## 명을 처치하면 보조무기를 자동으로 재장전합니다. 또한 반대의 경우도 성립합니다.\n\n자동 재정전 후 ##$multiperk2;##초 동안은 매우 빠르게 무기를 전환합니다.",
 menu_deck23_1_1 = "고성장",
 menu_deck23_1_1_desc = "최대 체력이 ##$multiperk;##만큼 증가합니다.",
 menu_deck23_1_2 = "단단함",
@@ -5641,6 +5643,7 @@ menu_deck23_9_11_desc = "적에게 대미지를 가하면 ##$multiperk;##초동�
 menu_deck23_9_13_desc = "당신의 방탄량이 남아있는 동안, 당신은 당신과 당신의 팀원이 ##$multiperk;##명의 적을 처치할 때마다 ##$multiperk2;##만큼의 체력을 저장합니다.$NL;$NL;당신의 방탄량이 완전히 고갈되어 재생성되는 순간, 당신은 당신이 저장했던 체력량만큼 체력을 회복합니다.$NL;$NL;저장할 수 있는 최대 체력량은 당신이 착용한 방탄복에 따라 달라집니다.$NL;$NL;당신은 ##$multiperk3;##만큼 체력을 더 얻습니다.",
 menu_deck23_9_14_desc = "당신이 가한 대미지의 ##$multiperk;##가 매 ##$multiperk2;##초 마다 최대 ##$multiperk3;##까지 히스테리아 스택으로 변화됩니다. 스택의 최대치는 ##$multiperk4;##입니다.$NL;$NL;히스테리아 스택$NL;당신은 매 ##$multiperk5;##의 히스테리아당 ##$multiperk6;##의 피해감소를 받습니다. 히스테리아 스택은 매 ##$multiperk7;##초마다 ##$multiperk8;##씩 감소합니다.$NL;$NL;당신의 팀원도 히스테리아 스택의 효과를 받습니다.$NL;$NL;여러 팀원으로부터 나오는 히스테리아 스택은 중첩되지 않으며, 가장 많은 피해감소량을 제공하는 팀원의 수치만 적용됩니다.",
 menu_deck23_9_desc = "덱 완료 보너스: PAYDAY도중 높은 등급의 아이템을 얻을 확률이 ##$multiperk;##만큼 상승합니다.",
+menu_deck23_9_3_desc = "당신의 방탄량을 추가로 ##$multiperk;##만큼 더 증가시킵니다.\n당신의 방탄량 회복속도를 ##$multiperk2;##만큼 상승시킵니다.",
 
 menu_difficulty_sm_wish = "데스 센텐스", --DEATH SECNTENCE
 menu_one_down = "원다운", --ONE DOWN
